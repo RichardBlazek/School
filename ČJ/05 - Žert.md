@@ -1,0 +1,22 @@
+# Žert - Milan Kundera
+- **Literární druh:** Epika
+- **Literární žánr:** Román
+- **Téma:** Tématem díla je dopad zdánlivě nevinného žertu na život jednotlivce v přísném režimu
+- **Motivy:** Žert, láska, sex, víra, pomsta, zapomnění, lidová tradice, přetvářka
+- **Časoprostor:** Československo (Praha, Ostrava, Slovácko) za socialismu, padesátá a šedesátá léta
+- **Kompoziční výstavba:** Kompozice je in medias res. Člení se na díly a ty se dělí na kapitoly. Každý díl vypráví jedna ze čtyř postav s výjimkou posledního dílu, kde se ve vyprávění po kapitolách střídají Ludvík, Helena a Jaroslav.
+- **Vypravěč:** Ve vyprávění se střídají čtyři postavy: Ludvík, Helena, Kostka a Jaroslav
+- **Vyprávěcí způsoby:** Děj vypráví v ich-formě
+- **Typy promluv:** Střídají se dialogy a popisy vnitřních myšlenek postav, v nichž se často vyskytují úvahy o životě a vůbec
+- **Veršová výstavba:** Není, dílo je próza
+- **Postavy:**
+  - **Ludvík Jahn:** Původně oddaný komunista, kvůli žertu vyloučený ze strany, pohrdá ženami a manipuluje (nejen) jimi
+  - **Pavel Zemánek:** Bezpáteřní tvor, zapálený komunista v 50. letech, reformátor v 60. letech, je pro něj důležité být populární, hodlá opustit manželku kvůli mladé milence
+  - **Helena Zemánková:** Pavlova žena, oddaná komunistka, odmítá si přiznat skutečnost a ráda věří příjemným lžím, když ji manžel chce opustit, je ochotná věřit, že ji Ludvík miluje
+  - **Lucie Komárková:** Plachá dívka s traumaty z minulosti, působí záhadně, než ji Kostka vyzpovídá
+  - **Kostka:** Křesťan a zároveň komunista, neustále pochybující o svých rozhodnutích
+  - **Jaroslav:** Snílek zahleděný do minulosti, držící se starých zvyků a tradic a odmítající změny
+- **Jazykové prostředky (u maturity ve výňatku):** Dílo je napsáno ve spisovné češtině, ale jazyk díla je bohatý, využívá se i hovorová mluva a jsou obsaženy úryvky lidových písní. Vyprávění Heleny bylo charakteristické dlouhými souvětími, jež připomínala proud myšlenek.
+- **Figury a tropy (u maturity ve výňatku):** --
+- **Kontext autorovy tvorby:** Další Kunderova díla: Majitelé klíčů, Směšné lásky, Život je jinde, Kniha smíchu a zapomnění, Nesnesitelná lehkost bytí
+- **Kontext literární a obecně kulturní:** Kundera psal ve druhé polovině 20. století, je řazen k postmodernismu (další autoři: Umberto Eco, Gabriel Garcia Marquez)

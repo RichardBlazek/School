@@ -1,0 +1,23 @@
+# Na západní frontě klid - Erich Maria Remarque
+- **Literární druh:** Epika
+- **Literární žánr:** Román
+- **Téma:** Tématem díla je nesmysl a utrpení celé války
+- **Motivy:** Válka, střelba, plyn, zabíjení, jídlo, ženy, boty
+- **Časoprostor:** Západní fronta za první světové války
+- **Kompoziční výstavba:** Kompozice je chronologická s retrospektivními pohledy na události před tím, než šli do války
+- **Vypravěč:** Vševědoucí vypravěč
+- **Vyprávěcí způsoby:** Ich-forma, přímá řeč a myšlenky postav
+- **Typy promluv:** Dialogy a vyprávění postavy-vypravěče
+- **Veršová výstavba:** Není, dílo je próza
+- **Postavy:**
+  - **Paul Bäumer:** Vypravěč, 19letý mladík donucený nastoupit do války, válka ho připravila o city a naději, umírá na konci knihy, v den, kdy byl na západní frontě "klid"
+  - **Albert Kropp:** Paulův spolužák, nejmenší a nejchytřejší z kamarádů
+  - **Stanisław Katczyński (Katcza):** Polák, 40letý, trochu autorita, umí sehnat jídlo a další potřebnosti
+  - **Haie Westhus:** Paulův spolužák, kopáč rašeliny
+  - **Friedrich Müller:** Paulův spolužák, má s sebou školní sešity, i během palby si opakuje fyzikální zákony, vezme si boty umírajícího Kemmericha
+  - **Peter Leer:** Paulův spolužák, inteligentní, má úspěch u žen
+  - **Kantorek:** Učitel tělocviku, přiměje celou třídu, aby narukovala do armády
+  - **Himmelstoss:** Krutý velitel během výcviku, v civilu pošťák, Bäumer a Kropp nalomí jeho autoritu, když na něj vyklopí kbelík splašků
+  - **Tjaden:** Paulův spolužák, velký jedlík, ale štíhlý, nenávidí Himmelstosse
+- **Kontext autorovy tvorby:** Další Remarquova díla: Tři kamarádi, Cesta zpátky, Vítězný oblouk, Černý obelisk, Jiskra života
+- **Kontext literární a obecně kulturní:** Ztracená generace (další autoři: Romain Rolland, Ernest Hemmingway, Francis Scott Fitzgerald)

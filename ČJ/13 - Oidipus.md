@@ -1,0 +1,18 @@
+# Král Oidipús - Sofoklés
+- **Literární druh:** Drama
+- **Literární žánr:** Tragédie
+- **Téma:** Tématem díla je marný pokus o únik před věštbou
+- **Motivy:** Věštba, vražda, krvesmilstvo, slepota, hádanka, trest
+- **Časoprostor:** Město Théby v antickém Řecku
+- **Kompoziční výstavba:** Dílo užívá retrospektivní kompozici. Za úvod bych označil část, kdy sbor prosí Oidipa o pomoc. Expozice začíná, když Kréon ohlásí, že je nutno vypátrat vraha. Krizí bych nazval část nastupující poté, co Iokasté řekne, že Láios byl zabit na rozcestí, a Oidipús znervózní. Jako o peripetii by se dalo mluvit o části, kdy Korinťan oznámí, že jeho otec zemřel stářím. Když však tuto naději zklame předvolaný otrok, nastává tragický konec -- katastrofa.
+- **Vypravěč:** Není, je to divadelní hra.
+- **Vyprávěcí způsoby:** Děj vypráví postavy dramatu prostřednictvím svých promluv; sbor to komentuje
+- **Typy promluv:** Dialogy děj posouvají dopředu a monology čtenáři přibližují přemýšlení postav
+- **Veršová výstavba:** Verše se příliš nerýmují, rytmus je jambický
+- **Postavy:**
+  - **Oidipús:** Bystrý muž, král, který však zabil otce a oženil se s matkou, protože nevěděl, že jsou to jeho rodiče
+  - **Iokasté:** Oidipova matka, královna Théb, vzala si Oidipa, když pravda vyšla najevo, zabila se
+  - **Kréon:** Bratr Iokasty, snaží se mírnit Oidipův vztek a stává se králem, když si Oidipús nechá vypíchnout oči
+  - **Teireiás:** Slepý věštěc, zdráhá se Oidipovi prozradit pravdu, protože ví, že to Oidipa jen rozčílí
+- **Kontext autorovy tvorby:** Další Sofoklova díla: Antigona, Oidipús na Kolónu, Élektrá
+- **Kontext literární a obecně kulturní:** Antické Řecko (další dramatici: Aischylos, Euripidés, Aristofanés)

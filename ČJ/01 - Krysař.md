@@ -1,0 +1,21 @@
+# Krysař - Viktor Dyk
+- **Literární druh:** Epika
+- **Literární žánr:** Novela
+- **Téma:** Tématem díla je pomsta krysaře, zklamaného chováním konšelů a neúspěchem v lásce
+- **Motivy:** Krysy, píšťala, láska, porušení smlouvy, řeka, hospoda
+- **Časoprostor:** Německé město Hammeln ve středověku
+- **Kompoziční výstavba:** Kompozice je chronologická
+- **Vypravěč:** Vševědoucí vypravěč
+- **Vyprávěcí způsoby:** Er-forma, často jsou popisovány pocity postav
+- **Typy promluv:** Dialogy ukazují vztahy mezi jednotlivými postavami
+- **Veršová výstavba:** Není, dílo je próza
+- **Postavy:**
+  - **Krysař:** Zabíjí krysy, záhadný původ, zamiluje se do Agnes, když má Agnes dítě s Kristiánem a zabije se, odvede měšťany do propasti
+  - **Agnes:** Hammelnská dívka, miluje Kristiána i Krysaře, s Kristiánem má dítě, tak skočí do propasti
+  - **Kristián:** Mladý muž, má dobré postavení, miluje Agnes
+  - **Sepp Jörgen:** Hloupý, ale hodný a silný člověk, rybář, je zpomalený, takže píšťala na něj ihned nepůsobí
+  - **Frosch a Strumm:** Konšelé a řemeslníci, najmou krysaře na deratizaci, ale odmítnou mu zaplatit
+- **Jazykové prostředky (u maturity ve výňatku):** Jazyk je spisovný, obsahuje knižní slova (chmurně), archaismy (zahubiti)
+- **Figury a tropy (u maturity ve výňatku):** Inverze (S rozšířenými zornicemi hleděla na něho Agnes), metafora (kojil se nadějí), řečnická otázka (což já vím?)
+- **Kontext autorovy tvorby:** Další Dykova díla: Devátá vlna, Zmoudření Dona Quijota, Milá sedmi loupežníků. 
+- **Kontext literární a obecně kulturní:** Dyk patřil ke generaci buřičů podobně jako Petr Bezruč a Karel Toman. Mezi jeho současníky patří třeba František Xaver Šalda nebo Karel Čapek.

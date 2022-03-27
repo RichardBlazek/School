@@ -1,0 +1,21 @@
+# Ostře sledované vlaky - Bohumil Hrabal
+- **Literární druh:** Epika
+- **Literární žánr:** Novela
+- **Téma:** Tématem díla je dospívání mladého muže v prostředí války
+- **Motivy:** Vlaky, nádraží, sabotáž, sex, sebevražda, dozrávání, okupace
+- **Časoprostor:** Nádraží v Čechách na konci druhé světové války
+- **Kompoziční výstavba:** Kompozice je in medias res. Člení se na kapitoly, které jsou odděleny jen větší mezerou mezi odstavci.
+- **Vypravěč:** Vypravěčem je hlavní postava, Miloš Hrma
+- **Vyprávěcí způsoby:** Děj vypráví v ich-formě
+- **Typy promluv:** Dialogy a popisy myšlenek, pocitů a vzpomínek vypravěče
+- **Veršová výstavba:** Není, dílo je próza
+- **Postavy:**
+  - **Miloš Hrma:** Mladý výpravčí, trpící ejaculatio praecox, pokusí se kvůli tomu o sebevraždu, ale soulož s Viktorií mu nakonec dodá odvahu, provede úspěšnou sabotáž, ale umírá zastřelený německým vojákem
+  - **Hubička:** Zkušený výpravčí, pohodový až líný, notorický sukničkář
+  - **Viktoria Freie:** Partyzánka původem z Tyrolska, doveze bombu na sabotáž a s Milošem se vyspí, protože jí přijde zajímavé, že je to panic
+  - **Přednosta:** Chová holuby, chtěl by být povýšen
+  - **Máša:** Milošova přítelkyně, s níž Miloš chtěl mít sex, ale projevilo se při tom jeho ejaculatio praecox
+  - **Zdenička Svatá, kolaborant Zednicek, paní přednostová**
+- **Jazykové prostředky (u maturity ve výňatku):** Dílo je napsáno ve spisovné češtině, ale využívá i nespisovných slov (fofrovat).
+- **Kontext autorovy tvorby:** Další Hrabalova díla: Postřižiny, Obsluhoval jsem anglického krále, Příliš hlučná samota, Pábitelé. Ostře sledované vlaky jsou jedním z mála Hrabalových děl, která mají děj.
+- **Kontext literární a obecně kulturní:** Česká literatura druhé poloviny 20. století, patřil do oficiálního proudu (další autoři: Ota Pavel, Arnošt Lustig, Vladimír Páral)

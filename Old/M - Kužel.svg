@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="19.09686266548736cm"
+     height="8.857980389811598cm"
+     viewBox="0 0 1133 525"
+     >
+<title>
+
+</title>
+<g stroke-linejoin="miter" stroke-dashoffset="0.0000" stroke-dasharray="none" stroke-width="1.0000" stroke-miterlimit="10.000" stroke-linecap="square">
+<clipPath id="clipbcb46428-a3d6-477b-baff-29aa8a1d4da7">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g fill-opacity="1.0000" fill-rule="nonzero" stroke="none" fill="#ffffff">
+  <path d="M 0.0000 0.0000 L 1134.0 0.0000 L 1134.0 526.00 L 0.0000 526.00 L 0.0000 0.0000 z"/>
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<clipPath id="clipab6014ed-26e1-4fa6-a9a9-2d4cd4908fcb">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 700.39 390.29 C 700.39 488.68 620.63 568.43 522.25 568.43 C 423.86 568.43 344.10 488.68 344.10 390.29 C 344.10 291.90 423.86 212.14 522.25 212.14 C 620.63 212.14 700.39 291.90 700.39 390.29 z"/>
+<title>Circle ks1</title>
+<desc>Circle ks1: Circle with center ZáklČtvB and radius Distance(ZáklČtvA, ZáklČtvB) / 2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+<clipPath id="clipfcd5f922-df05-4804-bf67-2b5196ba7618">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 685.11 301.22 C 685.11 440.36 572.31 553.15 433.18 553.15 C 294.04 553.15 181.24 440.36 181.24 301.22 C 181.24 162.08 294.04 49.282 433.18 49.282 C 572.31 49.282 685.11 162.08 685.11 301.22 z"/>
+<title>Circle ks2</title>
+<desc>Circle ks2: Circle with center Střed and radius Distance(ZáklČtvA, ZáklČtvB) / sqrt(2)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+<clipPath id="clip8ad1cadc-3e43-4e3f-889c-1825dfbf6cd8">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 559.14 301.22 C 559.14 370.79 502.74 427.18 433.18 427.18 C 363.61 427.18 307.21 370.79 307.21 301.22 C 307.21 231.65 363.61 175.25 433.18 175.25 C 502.74 175.25 559.14 231.65 559.14 301.22 z"/>
+<title>Circle ks3</title>
+<desc>Circle ks3: Circle with center Střed and radius Distance(ZáklČtvA, ZáklČtvB) / sqrt(2) / 2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+<clipPath id="clipb8d38e4c-3ef5-466d-b29e-16dcf348f4fa">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 611.32 301.22 C 611.32 399.60 531.56 479.36 433.18 479.36 C 334.79 479.36 255.03 399.60 255.03 301.22 C 255.03 202.83 334.79 123.07 433.18 123.07 C 531.56 123.07 611.32 202.83 611.32 301.22 z"/>
+<title>Circle ks4</title>
+<desc>Circle ks4: Circle with center Střed and radius Distance(StředDA, StředBC) / 2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+<clipPath id="clip57c73dee-d4cc-43fb-b86a-3157f2777419">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-linejoin="round" stroke-dasharray="10.500,8.0000" stroke-width="2.5000" stroke-linecap="butt" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 586.30 239.03 C 553.39 214.11 495.49 202.05 433.18 207.14 C 370.86 212.23 312.96 233.75 280.05 264.04"/>
+<title>Arc NeviditelnaCast</title>
+<desc>Arc NeviditelnaCast: Arc(Elipsa, BodDotyku_1, BodDotyku_2)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+<clipPath id="clip405f72cf-8072-49cb-b169-0bd696869565">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 280.05 264.04 C 233.06 307.31 248.22 357.49 315.77 382.21 C 383.32 406.92 483.03 398.78 550.58 363.03 C 618.13 327.28 633.29 274.62 586.30 239.03"/>
+<title>Arc ViditelnaCast</title>
+<desc>Arc ViditelnaCast: Arc(Elipsa, BodDotyku_2, BodDotyku_1)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+<clipPath id="clip86a02074-37e8-4d53-8947-170c02cd4bd0">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 522.25 531.00 L 522.25 -5.0000"/>
+<title>Line g</title>
+<desc>Line g: Line through ZáklČtvB perpendicular to ZČAB</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip8 -->
+<clipPath id="clipab5c5b10-dd21-4c3f-b657-df5d044c9c1a">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 165.96 531.00 L 165.96 -5.0000"/>
+<title>Line h</title>
+<desc>Line h: Line through ZáklČtvA perpendicular to ZČAB</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip9 -->
+<clipPath id="clipbc3550e5-cfdb-4d80-9ee4-15a388de476e">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 25.247 531.00 L 561.25 -5.0000"/>
+<title>Line i</title>
+<desc>Line i: Angle bisector of ZáklČtvB, ZáklČtvA, BodNa_h</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip10 -->
+<clipPath id="clip93d27142-e4de-4e92-865a-8fd846e67b90">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip11)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 381.54 531.00 L 917.54 -5.0000"/>
+<title>Line j</title>
+<desc>Line j: Line through ZáklČtvB parallel to i</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip11 -->
+<clipPath id="clip301f5375-3de5-4280-8294-fda349f6e7f2">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip12)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M -5.0000 212.14 L 1139.0 212.14"/>
+<title>Line k</title>
+<desc>Line k: Line through ZáklČtvÚsečPozic parallel to ZČAB</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip12 -->
+<clipPath id="clip15a87456-8287-4867-8fee-dffb0ff54558">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip13)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M -5.0000 301.22 L 1139.0 301.22"/>
+<title>Line l</title>
+<desc>Line l: Line through Střed parallel to ZČAB</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip13 -->
+<clipPath id="clip497ee161-8b0b-4bb1-a1e2-fa7f5396855e">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip14)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 433.18 531.00 L 433.18 -5.0000"/>
+<title>Line f</title>
+<desc>Line f: Line through Střed perpendicular to l</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip14 -->
+<clipPath id="clipeb423f80-5792-452d-94e2-8c354e25a781">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip15)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M -5.0000 526.48 L 572.29 -5.0000"/>
+<title>Line m</title>
+<desc>Line m: Tangent to Elipsa through Špice</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip15 -->
+<clipPath id="clip42f707b6-3eb8-41d1-89f7-c0f41464ac0e">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip16)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 264.06 -5.0000 L 971.84 531.00"/>
+<title>Line n</title>
+<desc>Line n: Tangent to Elipsa through Špice</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip16 -->
+<clipPath id="clip524d190e-3f3f-47f9-857f-fdca6cbaade0">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip17)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 165.96 390.29 L 522.25 390.29"/>
+<title>Segment ZČAB</title>
+<desc>Segment ZČAB: Segment ZáklČtvA, ZáklČtvB</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip17 -->
+<clipPath id="clip75dabf46-186a-41c2-a9ea-bc27d98323f6">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip18)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 181.24 301.22 L 344.10 390.29"/>
+<title>Segment Roh_1StředAB</title>
+<desc>Segment Roh_1StředAB: Segment RohDruhČtv_1, StředAB</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip18 -->
+<clipPath id="clip130d3c03-dc88-462b-a4c3-303d91428b50">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip19)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 344.10 390.29 L 685.11 301.22"/>
+<title>Segment Roh_2StředAB</title>
+<desc>Segment Roh_2StředAB: Segment StředAB, RohDruhČtv_2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip19 -->
+<clipPath id="clipb57e65e2-6ac4-48d6-a507-876d02e305ea">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip20)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 685.11 301.22 L 522.25 212.14"/>
+<title>Segment Roh_2StředCD</title>
+<desc>Segment Roh_2StředCD: Segment RohDruhČtv_2, ZáklČtvÚsečPozic</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip20 -->
+<clipPath id="clip0a246372-79c3-427c-ad97-b450320df997">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip21)">
+<g stroke-linejoin="round" stroke-width=".50000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#808080">
+  <path d="M 522.25 212.14 L 181.24 301.22"/>
+<title>Segment Roh_1StředCD</title>
+<desc>Segment Roh_1StředCD: Segment ZáklČtvÚsečPozic, RohDruhČtv_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip21 -->
+<clipPath id="clip15412273-c112-4751-833a-7c8aa78ff5c2">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip22)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 433.18 123.07 L 280.05 264.04"/>
+<title>Segment q</title>
+<desc>Segment q: Segment Špice, BodDotyku_2</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip22 -->
+<clipPath id="clip913c1292-d209-4f68-b11b-73a019120eca">
+  <path d="M 0.0000 0.0000 L 0.0000 526.00 L 1134.0 526.00 L 1134.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip23)">
+<g stroke-linejoin="round" stroke-width="2.5000" stroke-linecap="round" fill="none" stroke-opacity="1.0000" stroke="#000000">
+  <path d="M 433.18 123.07 L 586.30 239.03"/>
+<title>Segment s</title>
+<desc>Segment s: Segment Špice, BodDotyku_1</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip23 -->
+</g><!-- layer0 -->
+<defs>
+
+</defs> <!-- font definitions -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

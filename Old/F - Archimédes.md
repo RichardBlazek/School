@@ -1,0 +1,10 @@
+# Archimédes ze Syrakus
+Archimédes ze Syrakus byl øecký matematik, fyzik, filozof, vynálezce a astronom, je považován za zakladatele hydrostatiky. Napsal Archimédùv zákon, znící: Tìleso ponoøené do kapaliny je nadlehèováno silou odpovídající hmotnosti kapaliny tìlesem vytlaèené, vynalezl Archimédùv šroub, který se dodnes používá, a popsal principy jednoduchých mechanických strojù jako tøeba páka a naklonìná rovina. Údajnì prohlásil: „Dejte mi pevný bod a pohnu Zemí“.
+
+Archimédes prý mìl také vynález k zapalování lodí na dálku pomocí zrcadel, ale v souèasnosti se má za to, že využil parní kanón a øecký oheò.
+
+Podle legendy po nìm král Hierón II. chtìl, aby Archimédes ovìøil, zda je jeho koruna z èistého zlata. Archimédes musel vyøešit problém bez poškození koruny, takže ji nemohl pøetavit do kvádru, u kterého by mohl spoèítat objem, urèit hustotu a porovnat s hustotou zlata. Øešení ho prý napadlo pøi koupeli, když si všiml, že hladina stoupla, když se ponoøil do vody. Uvìdomil si, že mùže využít nestlaèitelnost vody, a ponoøí-li korunu do nádoby naplnìné vodou až po okraj, bude objem pøeteklé vody rovný objemu koruny. Podle legendy vyskoèil z koupele, zcela nahý probíhal syrakuskými ulicemi a volal „Heuréka!“. Poté zjistil, že koruna byla vyrobena pøevážnì ze zlata, ale bylo v ní pøidáno i støíbro. Pravdìpodobnìjší teorie však je, že využil Archimédova zákona a vyvážil korunu ryzím zlatem. Poté to dal váhy pod vodu a vidìl, že koruna jde nahoru a tudíž má nižší hustotu.
+
+Král Hierón též povìøil Archiméda návrhem obøí lodi Syrakúsie. Syrakúsia byla nejvìtší loï v období antiky, dokázala pojmout až šest set lidí a byla vybavena okrasnými záhony, tìlocviènou a chrámem zasvìceným bohyni Afroditì.
+
+Velmi dùležitým prvkem na lodi byl Archimédùv šroub, jehož úkolem bylo odstranìní odpadní vody. Tvoøila ho šikmo postavená trubka se zabudovanou spirálou tìsnì uloženou na høídeli. Voda byla v kapsách tvoøených závity držena gravitací a èerpání bylo provádìno otáèením høídele. Èerpadla na principu Archimédova šroubu se užívá dodnes. Jeho velkou výhodou je jednoduchost a spolehlivost i pøi èerpání silnì zneèištìných kapalin. 

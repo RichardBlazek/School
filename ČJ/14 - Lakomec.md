@@ -1,0 +1,23 @@
+# Lakomec - Molière (Jean-Baptiste Poquelin)
+# Médeia - Euripidés
+- **Literární druh:** Drama
+- **Literární žánr:** Komedie
+- **Téma:** Tématem díla je deformace vztahů kvůli lakotě a penězům
+- **Motivy:** Peníze, lakota, láska, krádež, úvěr, svatba
+- **Časoprostor:** Paříž v 17. století
+- **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Za expozici bych označil vyznání lásky a Harpagonovu lakotu. Kolize začíná, když Harpagon oznámí dětem svoje plány ohledně ženitby. Krizí bych nazval část, kdy Harpagon zjistí, že mu byly zcizeny peníze. O peripetii lze mluvit v části, kdy Kleant vydírá svého otce skrz ukradené peníze. Když se Anselm vzdá Elisy a ukáže se, že je otcem Mariany a Valera, děj spěje ke šťastnému konci.
+- **Vypravěč:** Není, je to divadelní hra.
+- **Vyprávěcí způsoby:** Děj vypráví postavy dramatu prostřednictvím svých promluv
+- **Typy promluv:** Děj je vyprávěn téměř výhradně pomocí dialogů, jediný významný monolog vede Harpagon poté, co jsou mu ukradeny peníze.
+- **Veršová výstavba:** --
+- **Postavy:**
+  - **Harpagon** -- Bohatý lakomý šedesátiletý vdovec, zamilovaný do Mariany
+  - **Kleant** -- Harpagonův syn, milenec Mariany, marnotratný hédonik
+  - **Elisa** -- Harpagonova dcera, milenka Valera, který ji zachránil před utonutím
+  - **Mariana** -- Anselmova dcera, milenka Kleanta, hodná, poslušná
+  - **Valer** -- Anselmův syn, milenec Elisy, Harpagonův správce, mazaný, úlisný
+  - **La Flèche** -- Kleantův sluha, Ukradl Harpagonovy peníze pro Kleanta
+  - **Anselm** -- Dobromyslný bohatý šlechic, ve skutečnosti je don Thomas d'Alburci
+  - **Frosina** -- Mazaná a všetečná rádkyně
+- **Kontext autorovy tvorby:** Další Molièrova díla: Zdravý nemocný, Tartuffe, Don Juan, Misantrop, Měšťák šlechticem, Pán z Prasečkova. Lakomec je jeho nejznámější komedie.
+- **Kontext literární a obecně kulturní:** Francouzský klasicismus, další autoři: Pierre Corneille, Jean Racine, Jean de la Fontaine; podobná díla: Komedie o hrnci

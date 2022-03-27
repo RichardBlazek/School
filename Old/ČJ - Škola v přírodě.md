@@ -1,0 +1,8 @@
+# Škola v pøírodì
+Obvyklou souèástí tøídních aktivit mimo školu bıvá škola v pøírodì. Inu, ani nám se nevyhnula. Za ètyøi roky studia nás potkala dokonce dvakrát. Poprvé v podobì adaptaèního kurzu, majícího za cíl seznámení a vzájemnou „adaptaci“ èlenù nového kolektivu na sebe navzájem. Zda se to podaøilo, Bùh suï, pøinejmenším tehdy jsme však mìli pocit, e pokud ano, pak pouze mezi tìmi, kteøí spolu sdíleli svùj pokoj. Je ale vùbec adaptaèní kurz školou v pøírodì?
+
+Já soudím, e ano, nebo mezi rozliènımi aktivitami nechybìlo ani uèení. Náplò hodin hudební vıchovy, písnièky „Máma mi dala korunu, abych koupil rybu“ a „Houpej se, loïko má,“ v mé pamìti utkvìly dodnes a leckdy si je pro sebe zpívám. Ve snaze vytáhnout z hlubin své mysli i další vzpomínky se mi vybavilo, jak nám v rámci vıuky jazyka èeského pøedèítala paní profesorka knihu „Tatínek není k zahození.“ Zkrátka samé hodnotné vìdomosti.
+
+V prùbìhu tıdne jsme dìlali spoustu zajímavıch vìcí, ale opravdu nezapomenutelnı byl poslední veèer. Tehdy se toti mezi nás nìjakım zpùsobem dostala informace o zmizení jisté dívky. Vzrušenì jsme o tom na chodbì mudrovali a vymıšleli nejroztodivnìjší vysvìtlení toho, co se mohlo stát. Zprávì z oficiálních míst, která tuto zvìst popírala, vìøil málokdo. Dle pøevládajícího názoru šlo o pouhı pokus nás uklidnit a ono dìvèe stále nalezeno nebylo. A tu nìkolik hochù z naší tøídy rozhodlo, e musí vzít vìc do vlastních rukou.
+
+Jak øekli, tak udìlali a vyrazili do noèní temnoty. Není si tìké pøedstavit, jakı šok zaili uèitelé, kdy jim jejich svìøenci utekli bùhvíkam. Proto vyslali za uteèenci zdravotníka, jen mìl áky pøivést zpìt. Øíkat, e záchranná mise byla zbyteèná, asi nemusím. Hledaná ákynì se toti po celou dobu nacházela u uèitelù…

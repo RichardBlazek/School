@@ -1,0 +1,24 @@
+# Farma zvířat - George Orwell
+- **Literární druh:** Epika
+- **Literární žánr:** Novela
+- **Téma:** Tématem díla je revoluční režim, jenž se pod vlivem nové vládnoucí třídy postupně stává horším než ten původně svržený
+- **Motivy:** Revoluce, zásady, zrada, moc, privilegia, hlasování, kolektivismus, gramotnost
+- **Časoprostor:** Farma v Anglii, 20. století
+- **Kompoziční výstavba:** Dílo užívá chronologickou kompozici.
+- **Vypravěč:** Vševědoucí
+- **Vyprávěcí způsoby:** Děj se vypráví v er-formě, věci jsou popisovány z pohledu toho, co viděla a usuzovala většina zvířat
+- **Typy promluv:** Dialogy, různé typické hlášky některých zvířat (např. Goliáš, ovce, ...)
+- **Veršová výstavba:** Není, dílo je próza
+- **Postavy:**
+  - **Pan Jones:** Majitel farmy a alkoholik, kterého zvířata při revoluci vyženou
+  - **Starý Major:** Vepř, který podnítí ostatní k revoluci, ale zemře dříve, než revoluce proběhne
+  - **Napoleon:** Vepř, který se podílí na revoluci, ale odchová v odloučení psí štěňata, která použije k vyhnání konkurenčního Kuliše a získání absolutní moci
+  - **Kuliš:** Další vepř, který se podílí na revoluci a více se zabývá ideologií, Napoleonovi psi jej vyženou a on už se nevrátí
+  - **Pištík:** Vepř, který dělá propagandu vládnoucí třídě prasat, umně s ostatními zvířaty manipuluje
+  - **Boxer:** Tvrdě pracující kůň, loajální k režimu, potom se zraní a prasata ho pošlou na jatka
+  - **Benjamin:** Osel, jedno z mála gramotných neprasat, je pesimistický ohledně revoluce a nijak ho neudiví ani pozdější vývoj
+  - **Ovce:** Hloupé stádo, které ničemu nerozumí, ale umí hlasitě bečet, čímž znemožní pokračování diskuze
+  - **Psi:** Napoleon je odebral matkám a vychoval z nich svoji ochranku a tajnou policii, ochotnou zabít jakoukoli opozici
+  - **Murriel, Lupina, kočka, slepice, další prasata**
+- **Kontext autorovy tvorby:** Další Orwellova díla: 1984, Cesta k Wigan Pier, Hold Katalánsku. Autorova díla popisovala a kritizovala totalitní režimy.
+- **Kontext literární a obecně kulturní:** Politická satira, podobná díla: Gulliverovy cesty (Johnatan Swift)

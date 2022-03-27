@@ -1,0 +1,21 @@
+# Zločin a trest - Fjodor Michajlovič Dostojevskij
+- **Literární druh:** Epika
+- **Literární žánr:** Román
+- **Téma:** Tématem díla je otázka, zda může mimořádný jedinec spáchat beztrestně zločin
+- **Motivy:** Vražda, chudoba, prostituce, alkohol, křesťanství, láska
+- **Časoprostor:** Petrohrad v 19. století, konec románu se odehrává na Sibiři
+- **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Za úvod bych označil část, kdy Raskolnikov přemítá, jestli zabít, či nezabít. Expozice začíná, když se rozhodne zabít. Krizí bych nazval část mezi dvěma setkáními s Porfirijem Petrovičem. Jako o peripetii by se dalo mluvit o části, kdy je zatčen Mikolka a vypadá to, že Raskolnikov už se vyšetřování nemusí bát. Když tuto naději Profirij Petrovič zklame, děj spěje k Raskolnikovovu přiznání a kniha končí krátkých epilogem.
+- **Vypravěč:** Vševědoucí
+- **Vyprávěcí způsoby:** Er-forma, důležité jsou myšlenkové monology postav, v případě Raskolnikova s důležitými morálními otázkami
+- **Typy promluv:** Monology v myšlenkách postav, dialogy mezi postavami
+- **Veršová výstavba:** --
+- **Postavy:**
+  - **Rodion Romanovič Raskolnikov:** Chudý student, myslí si, že je něco víc, chce pomocí uloupených peněz pomáhat lidstvu, má soucit se Marmeladovem a jeho rodinou, chce jim pomoci
+  - **Dmitrij Prokofjič Razumichin:** Raskolnikovův kamarád, chudý student, ale pracuje, aby si vydělal na živobytí, vynalézavý, dobrosrdečný, rozumný
+  - **Arkadij Ivanovič Svidrigajlov:** Poživačný pomatený podlý perverzní podvodník, zaměstnává Duňu a jeví o ni zájem, když ho odmítne, pošle jí po Raskolnikovovi alespoň peníze
+  - **Petr Petrovič Lužin:** Právník, chce si vzít Duňu, protože je chudá a on chce, aby mu byla podřízená, je vychytralý a chce ostatním dominovat
+  - **Avdotja Romanovna Raskolnikova (Duňa):** Raskolnikovova sestra, chce si vzít Lužina, aby pomohla rodině z chudoby, ale odmítne, když zjistí, co je Lužin zač, a dostane peníze od Svidrigajlova
+  - **Sofja Sejmonovna Marmeladova (Soňa):** Prostitutka, která musí živit celou Marmeladovic rodinu, obětuje jim vše, chce Raskolnikovovi pomoci na správnou cestu
+  - **Porfirij Petrovič:** Policejní vyšetřovatel, důvtipný, zkoumá mysl pachatelů, prohlédne Raskolnikova
+- **Kontext autorovy tvorby:** Další Dostojevského díla: Zápisky z podzemí, Idiot, Bratři Karamazovi, Běsi
+- **Kontext literární a obecně kulturní:** Dostojevskij je předchůdcem psychologické prózy (další autoři: Jarmila Glazarová, Jaroslav Havlíček) a představitelem realismu (další autoři: Honoré de Balzac, Nikolaj Vaslijevič Gogol, Karel Václav Rais)

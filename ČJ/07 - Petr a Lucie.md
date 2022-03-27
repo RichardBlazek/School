@@ -1,0 +1,20 @@
+# Petr a Lucie - Romain Rolland
+- **Literární druh:** Epika
+- **Literární žánr:** Novela
+- **Téma:** Tématem díla je láska mladých lidí v kontrastu se zbytečností války
+- **Motivy:** Láska, válka, jaro, malování, úsměv, etatismus, odvody, zabíjení
+- **Časoprostor:** Paříž, od 30. ledna do 29. března 1918
+- **Kompoziční výstavba:** Kompozice je chronologická
+- **Vypravěč:** Vševědoucí vypravěč
+- **Vyprávěcí způsoby:** Er-forma, přímá řeč i myšlenky postav
+- **Typy promluv:** V díle se vyskytují dialogy a popisy vypravěče, dialogy jsou někdy doplněné komentáři vypravěče v závorkách
+- **Veršová výstavba:** Není, dílo je próza
+- **Postavy:**
+  - **Petr:** Mladík z buržoazní rodiny, naivní, má být za půl roku poslán do války, než potká Lucii, nevidí v životě smysl
+  - **Lucie:** Chudá dívka, praktického založení, žije jen s matkou
+  - **Filip:** Petrův bratr, bojuje ve válce, bývá jedovatý a chladný k bratrovi, ale když zjistí, že je Petr zamilovaný, přeje mu štěstí
+  - **Petrovi rodiče:** Slušní občané, loajální vládě, schvalující všechna její rozhodnutí, otec byl státní úředník
+  - **Petrovi kamarádi:** Taky z buržoazních rodin, zastávali různé postoje k válce a diskutovali o nich
+  - **Luciina matka:** Žena z bohaté rodiny, která si vzala chudého manžela, takže se jí rodina zřekla, pracuje v továrně na munici, měla dítě s milencem
+- **Kontext autorovy tvorby:** Další Rollandova díla: Jan Kryštof, Dobrý člověk ještě žije
+- **Kontext literární a obecně kulturní:** Ztracená generace (další autoři: Erich Maria Remarque, Ernest Hemmingway, Francis Scott Fitzgerald), díla s podobnou tematikou: Na západní frontě klid (trochu, je tam válka, ale ne láska)

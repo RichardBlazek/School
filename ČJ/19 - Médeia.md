@@ -1,0 +1,23 @@
+# Médeia - Euripidés
+- **Literární druh:** Drama
+- **Literární žánr:** Tragédie
+- **Téma:** Tématem díla je pomsta zrazené ženy
+- **Motivy:** Zrada, slib, pomsta, rodina, děti, vražda, ctižádost
+- **Časoprostor:** Město Korint v antickém Řecku
+- **Kompoziční výstavba:** Kompozice je chronologická, ale obsahuje retrospektivní odkazy na události před dějem (výprava Argonautů).
+- **Vypravěč:** Není, je to divadelní hra.
+- **Vyprávěcí způsoby:** Děj vypráví postavy dramatu prostřednictvím svých promluv; sbor a jeho náčelnice to komentují.
+- **Typy promluv:** Dialogy děj posouvají dopředu a monology čtenáře seznamují s minulostí a pocity postav
+- **Veršová výstavba:** Verše se až na výjimky nerýmují, rytmus je často jambický, někdy není rozpoznatelný.
+- **Postavy:**
+  - **Médeia:** Dcera kolchidského krále, milovala Iásona a obětovala mu všechno, ale po jeho zradě zahořkla, stala se zlou a kvůli pomstě zabila i své děti.
+  - **Iásón:** Člověk ochotný vykonat odvážné i hanebné skutky, aby dosáhl dobrého postavení. Proto si vzal dceru vladaře, ačkoliv měl dvě děti s Médeiou.
+  - **Kréon:** Vládce Korintu, vyhání Médeiu, protože se (oprávněně) obává, že by mohla ublížit jeho dceři
+  - **Chůva:** Médeina chůva, lituje Médeiu, ale hrozí se, co by mohla Médeia spáchat
+  - **Aigeus:** Athénský král, když se dozví, co Médeie Iásón provedl, nabídne jí útočiště v Athénách
+  - **Náčelnice sboru:** Sama nejedná, ale mluví s postavami, Iásónovi řeknou, že Médeia zabila jejich děti
+  - **Sbor, děti, vychovatel, posel, Kréontova dcera**
+- **Jazykové prostředky (u maturity ve výňatku):** Archaismy (hrýzt, trud, váda, siroba), knižní slova (lkát, choť), jazyk je spisovný, působí mírně archaicky.
+- **Figury a tropy (u maturity ve výňatku):** Metafora (láska -- sežehne hruď, láska -- mírně rozhoří se v nás), personifikace (láska -- nedává slávy), apostrofa (Afrodíto, Die, vlasti).
+- **Kontext autorovy tvorby:** Další Euripidova díla: Hekabé, Elektra, Hérakles, Ifigenie v Tauridě, Oresteia, Bakchantky. Euripidés je považován za novátora, který oslabil roli sboru v dramatech a zabýval se psychologií postav, hlavně ženských. Byl proto zesměšňován například Aristofanem v jeho komedii Žáby.
+- **Kontext literární a obecně kulturní:** Antické Řecko, další dramatici: Aischylos, Sofoklés, Aristofanés, podobná díla: Návštěva staré dámy (Friedrich Dürennmatt, žena vypíše odměnu za zabití muže, který ji odvrhl), Oresteia, Elektra (pomsta otcovy vraždy).

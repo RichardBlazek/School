@@ -1,0 +1,21 @@
+# Faust - Johann Wolfgang Goethe
+- **Literární druh:** Drama
+- **Literární žánr:** Tragédie
+- **Téma:** Tématem díla je sázka s ďáblem.
+- **Motivy:** Vědění, medicína, magie, láska, cudnost, vražda, odpuštění
+- **Časoprostor:** Německo ve středověku
+- **Kompoziční výstavba:** Kompozice je chronologická, začíná věnováním, předehrou a prologem, děj tvoří tradiční expozice (Faust s duchem a Wagnerem), kolize (smlouva s Mefistofelem), krize (Markéta), peripetie (pokus o její záchranu) a katastrofa (její smrt, resp. spasení).
+- **Vypravěč:** Není, je to divadelní hra.
+- **Vyprávěcí způsoby:** Děj vypráví postavy dramatu prostřednictvím svých promluv; uvozuje to předehra na divadle, kde ředitel s personálem řeší, co se bude hrát.
+- **Typy promluv:** Střídají se dialogy a monology, někdy je od sebe nelze rozlišit; v promluvách se často vyskytují morální a filozofické úvahy a popisy prostředí.
+- **Veršová výstavba:** Rým je různý: sdružený, obkročný, přerývaný i střídavý; rytmus je nejednotný, někdy jambický, někdy daktylský; část *Ponurý den. Pole* je psána v próze
+- **Postavy:**
+  - **Faust:** Učenec s krizí středního věku, chce dosáhnout ještě většího poznání a zároveň si užívat neomezených požitků, uzavře smlouvu s ďáblem, aby mu to zajistil
+  - **Mefistofeles:** Ďábel, tvor, který chce ničit, nabídne Faustovi své služby, když bude Faust naopak sloužit jemu po smrti
+  - **Markéta:** Původně cudná dívka, Faust ji svede; když zjistí, že s ním má dítě, zabije dítě i svoji matku a je odsouzena k smrti, odevzdá se do rukou spravedlnosti a Bůh jí odpustí
+  - **Wagner:** Bakalář u Fausta, bezmezně ho obdivuje a touží po poznání
+  - **Duchové, pijáci, měšťané, čarodějnice, strašidla, Líza**
+- **Jazykové prostředky (u maturity ve výňatku):** Knižní slova (sirobný, rci, poroba), nespisovná slova (hokuspokus), germanismy (šturm, inštrument), latinská slova (dies irae, dies illa)
+- **Figury a tropy (u maturity ve výňatku):** Metonymie (dám přednost Rýnu), apostrofa (Boží soude, andělé), metafora (lože věčného míru), řečnická otázka (tohle že vás zarmucuje?)
+- **Kontext autorovy tvorby:** Další Goetheho díla: Faust (druhý díl), Utrpení mladého Werthera, Viléma Meistera léta učednická, Ifigenie na Tauridě, Egmont, Torquato Tasso. Goethe Fausta v průběhu svého života upravoval, první verzi měl roku 1775, vydán byl první díl až roku 1808.
+- **Kontext literární a obecně kulturní:** Německý preromantismus, téma Fausta bylo zpracováno i v dalších dílech: Doktor Faustus (Christopher Marlowe), Pokoušení (Václav Havel), Mistr a Markétka (Michail Bulgakov). Goetheho současníci byli Friedrich Schiller, Voltaire, Heinrich Heine a George Gordon Byron.

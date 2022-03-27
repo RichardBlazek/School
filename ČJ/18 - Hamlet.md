@@ -1,0 +1,21 @@
+# Hamlet - William Shakespeare
+- **Literární druh:** Drama
+- **Literární žánr:** Tragédie
+- **Téma:** Tématem díla je snaha pomstít vraždu svého otce
+- **Motivy:** Vražda, láska, odplata, šílenství, divadlo, přetvářka, lest
+- **Časoprostor:** Hrad Elsinor v Dánsku, přibližně na počátku 17. století
+- **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Za expozici bych označil první jednání, v němž se zjevuje duch a Hamlet zjistí, že Claudius zabil krále. Kolize začíná s druhým jednáním, když se Hamlet rozhodne otce pomstít. Krizí bych nazval část od třetího jednání, zahrnující monolog *Být či nebýt* a divadelní představení. Jako o peripetii by se dalo mluvit o části, kdy je Hamlet poslán do Anglie, neboť se může zdát, že tím je odstraněn. Když je Hamet vyzván na souboj, vše spěje k tragickému konci -- katastrofě.
+- **Vypravěč:** Není, je to divadelní hra.
+- **Vyprávěcí způsoby:** Děj vypráví postavy dramatu prostřednictvím svých promluv
+- **Typy promluv:** Dialogy a monology, monology jsou v Hamletovi značně důležité a zachycují úvahy postav (např. Hamletův monolog)
+- **Veršová výstavba:** Část je psána v próze, část ve verších. Metrum veršů je jambické, rýmové schéma je různé, většinou se verše nerýmují, někdy používají sdružený rým
+- **Postavy:**
+  - **Hamlet:** Syn zavražděného krále, chce jej pomstít, předstírá šílenství, nakonec Claudia zabije, ale sám umírá po ráně otráveným mečem při souboji s Laertem
+  - **Claudius:** Bratr a vrah mrtvého krále, jehož ženu si vzal a stal se králem, postupně začíná mít strach z Hamleta a snaží se ho zbavit
+  - **Gertruda:** Královna, po smrti prvního krále si vzala Claudia, trápila se Hamletovým šílenstvím, ale pořád ho měla ráda, trpěla mírnými výčitkami svědomí z toho, že si vzala Claudia brzy po smrti manžela, nakonec omylem vypila otrávený pohár nastražený na Hamleta a zemřela
+  - **Horatio:** Hamletův přítel, všechno od Hamleta ví a pomáhá mu s jeho lstmi, nakonec jediná z postav, která přežije
+  - **Polonius:** Nejvyšší komoří, snaží se s Claudiem zjistit příčinu Hamletova šílenství, ale když odposlouchává rozhovor Hamleta a Gertrudy, Hamlet jej přistihne a zabije
+  - **Rosenkrantz a Guildenstern:** Hamletovi bývalí spolužáci, Claudius s nimi pošle Hamleta do Anglie, aby tam byl sťat dle rozkazu v dopise, ale Hamlet vyměnil papír v obálce a napsal, ať jsou popraveni Rosenkrantz s Guildensternem
+  - **Laertes:** Poloniův syn, chce otce pomstít, jde na souboj s Hamletem, ale po domluvě s Claudiem si vezme otrávený meč, tím Hamleta zasáhne, ale v průběhu zápasu si meče vymění, takže je pak taky zraněn otráveným mečem a zemřou oba
+- **Kontext autorovy tvorby:** Další Shakespearova díla: Romeo a Julie, Othello, Král Lear, Macbeth, Kupec benátský.
+- **Kontext literární a obecně kulturní:** Renesance (v Anglii v 16. až 17. století), další autoři: Christopher Marlowe, Michel de Montaigne, Miguel de Cervantes y Saavedra. Díla s podobným námětem: Soudné sestry (Zeměplocha).

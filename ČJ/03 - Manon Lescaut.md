@@ -1,20 +1,20 @@
 # Manon Lescaut - Vítězslav Nezval
 - **Literární druh:** Drama
 - **Literární žánr:** Tragédie
-- **Téma:** Tématem díla je nešťastná láska Manon a rytíře des Grieux (upravit)
-- **Motivy:** Láska, nevěra, rozpor mezi tělem a srdcem, lest, pomsta, klášter, 
+- **Téma:** Tématem díla je neštěstí v milostném vztahu zapříčiněné přílišnou krásou dívky
+- **Motivy:** Láska, krása, nevěra, rozpor mezi tělem a srdcem, lest, pomsta, klášter, peníze
 - **Časoprostor:** Francie ve středověku
-- **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Za expozici bych označil oslavu studentů v Amiensu. Kolize začíná, když se des Grieux potká Manon a zamilují se do sebe. Krizí bych nazval část, kdy je Manon opakovaně nevěrná, des Grieux odejde a zase se vrátí. Jako o peripetii lze mluvit o části, kdy se potkají s Duvalovým synem, který slibuje, že urovná spory s jejich otcem. Když jsou však Manon a des Grieux u Duvala dopadeni a Manon je poslána pryč, vše spěje k tragickému konci -- katastrofě.
+- **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Za expozici bych označil oslavu studentů v Amiensu. Kolize začíná, když se des Grieux potká Manon a zamilují se do sebe. Krizí bych nazval konflikt při návštěvě u Duvala. Jako o peripetii lze mluvit o části, kdy se potkají s Duvalovým synem, který slibuje, že urovná spory s jejich otcem. Když jsou však Manon a des Grieux u Duvala dopadeni a Manon je poslána pryč, vše spěje k tragickému konci - katastrofě.
 - **Vypravěč:** Není, je to divadelní hra.
 - **Vyprávěcí způsoby:** Děj vypráví postavy dramatu prostřednictvím svých promluv
 - **Typy promluv:** Převážně dialogy mezi postavami, někdy vede postava delší monolog, který je ale navázán na dialog
-- **Veršová výstavba:** Část je ve verších, část v próze. Metrum veršů je trojechské i jambické, někdy není patrné. Rýmové schéma je různé, většinou stružený rým, někdy střídavý, některé verše se nerýmují.
+- **Veršová výstavba:** Většina je ve verších, část je v próze. Metrum veršů je trojechské i jambické, někdy není patrné. Rýmové schéma je různé, většinou stružený rým, někdy střídavý, některé verše se nerýmují.
 - **Postavy:**
   - **Rytíř des Grieux:** Mladý rytíř, jenž se hodlá stát knězem, ale rozmyslí si to, když se zamiluje do Manon, naivní, otevřený, důvěřivý
   - **Manon Lescaut:** Šestnáctiletá krásná dívka, kterou rodiče poslali do kláštera, je si vědoma své krásy a využívá jí k získávání výhod od svých nápadníků, des Grieuxa miluje, ale přesto je mu nevěrná, protože tvrdí, že mu zachovává věrnost v srdci a od něj taky nic jiného nepožaduje
-  - **Tiberge:** Kněz a des Grieuxův přítel, snaží se jej přivést zpět na církevní dráhu, snaží se ho přesvědčit o Manonině nevěře a zkaženosti
+  - **Tiberge:** Kněz a des Grieuxův přítel, snaží se jej přivést zpět na církevní dráhu a přesvědčit ho o Manonině nevěře a zkaženosti
   - **Duval:** Prokurátor z Paříže, chce si Manon vzít, dává jí dárky, a když zjistí, že si z něj tropila žerty, chce ji a des Grieuxa žalovat
   - **Duval mladší:** Duvalův syn, slibuje des Grieuxovi, že urovná spor s Duvalem, ale nakonec si vezme Manon k sobě domů, des Grieuxa nechá doma a pošle mu svoji milenku Modestu
   - **Hostinský, Modesta, studenti, italský šlechtic, Pierre**
-- **Kontext autorovy tvorby:** Další Nezvalova díla: Edison, Absolutní hrobař, Sbohem a šáteček, Zpěv míru.
+- **Kontext autorovy tvorby:** Další Nezvalova díla: Edison (poetismus), Podivuhodný kouzelník (poetismus), Absolutní hrobař (surrealismus), Zpěv míru (socialistický realismus). Manon je jedno z jeho nejznámějších děl.
 - **Kontext literární a obecně kulturní:** První polovina 20. století, psal různá díla spadající do směrů poetismu (další básníci: Jaroslav Seifert, Karel Teige), surrealismu (Konstantin Biebl, Karel Teige) a socialistického realismu (Pavel Kohout, Marie Majerová).

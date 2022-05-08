@@ -6,13 +6,13 @@
 - **Časoprostor:** První polovina 20. století, různě po světe (Praha, Amerika, ...)
 - **Kompoziční výstavba:** Dílo se člení na pět částí. První část vyjadřuje životní úzkost a pochyby o smyslu života. Ve druhé části autor srovnává svůj život s Edisonovým. Třetí část oslavuje práci vynálezce. Čtvrtá část ukazuje, že vynálezce ani po úspěchu nemá pokoj a pořád něco zkoumá, přitom úspěch závisí na odhodlání i na náhodě. V páté části se autor vrací domů, přičemž útěchu a smysl našel v tvůrčí práci.
 - **Lyrický subjekt:** Nezval sám
-- **Vyprávěcí způsoby:** Lyrický subjekt sděluje svoje pocity a myšlenky, svázané volnými asociacemi.
-- **Typy promluv:** Vyskytují se téměř výhradně monology, výjimkou je dialog Nezvala a hazardního hráče
+- **Vyprávěcí způsoby:** Lyrický subjekt sděluje svoje pocity a myšlenky, svázané volnými asociacemi; vyskytuje se i přímá řeč, ale bez interpunkce.
+- **Typy promluv:** Vyskytují se téměř výhradně monology subjektu, výjimkou je dialog Nezvala a hazardního hráče
 - **Veršová výstavba:** Verše používají sdružený rým a trochejské metrum.
 - **Postavy:**
   - **Edison:** Reprezentuje vynálezce, člověka zabraného do tvůrčí činnosti
   - **Nezval:** Lyrický subjekt, přemýšlí o životě a usoudí, že smysl života je tvůrčí činnost, opěvuje Edisona
 - **Jazykové prostředky (u maturity ve výňatku):** Jazyk je spisovný, obsahuje názvy cizích míst a firem
 - **Figury a tropy (u maturity ve výňatku):** Anafora+enumerace (už, tisíc, stát se, piják, jako), přirovnání (jako rybář který vytáh plné sítě), kontrast (těžké/krásné, smutek stesk a úzkost / odvaha a radost)
-- **Kontext autorovy tvorby:** Další Nezvalova díla: Manon Lescaut, Absolutní hrobař , Sbohem a šáteček, Zpěv míru. Edison (1927) spadá do jeho poetistického období (později psal díla v duchu surrealismu a socialistického realismu).
+- **Kontext autorovy tvorby:** Další Nezvalova díla: Manon Lescaut, Absolutní hrobař, Sbohem a šáteček, Zpěv míru. Edison (1927) spadá do jeho poetistického období (později psal díla v duchu surrealismu a socialistického realismu).
 - **Kontext literární a obecně kulturní:** První polovina 20. století, psal různá díla spadající do směrů poetismu (další básníci: Jaroslav Seifert, Karel Teige), surrealismu (Konstantin Biebl, Karel Teige) a socialistického realismu (Pavel Kohout, Marie Majerová).

@@ -10,12 +10,12 @@
 - **Typy promluv:** Dialogy ukazují vztahy mezi jednotlivými postavami
 - **Veršová výstavba:** Není, dílo je próza
 - **Postavy:**
-  - **Krysař:** Zabíjí krysy, záhadný původ, zamiluje se do Agnes, když má Agnes dítě s Kristiánem a zabije se, odvede měšťany do propasti
-  - **Agnes:** Hammelnská dívka, miluje Kristiána i Krysaře, s Kristiánem má dítě, tak skočí do propasti
+  - **Krysař:** Zabíjí krysy, záhadný původ, zamiluje se do Agnes; když mu nejdřív konšelé nezaplatí a potom má Agnes dítě s Kristiánem a zabije se, rozhodne se odvést měšťany do propasti
+  - **Agnes:** Hammelnská dívka, miluje Kristiána i Krysaře, s Kristiánem má dítě, skočí do propasti
   - **Kristián:** Mladý muž, má dobré postavení, miluje Agnes
-  - **Sepp Jörgen:** Hloupý, ale hodný a silný člověk, rybář, je zpomalený, takže píšťala na něj ihned nepůsobí
+  - **Sepp Jörgen:** Hloupý, ale hodný a silný člověk, rybář, je zpomalený, takže píšťala na něj působí až se zpožděním, což jej zachrání
   - **Frosch a Strumm:** Konšelé a řemeslníci, najmou krysaře na deratizaci, ale odmítnou mu zaplatit
 - **Jazykové prostředky (u maturity ve výňatku):** Jazyk je spisovný, obsahuje knižní slova (chmurně), archaismy (zahubiti)
 - **Figury a tropy (u maturity ve výňatku):** Inverze (S rozšířenými zornicemi hleděla na něho Agnes), metafora (kojil se nadějí), řečnická otázka (což já vím?)
-- **Kontext autorovy tvorby:** Další Dykova díla: Devátá vlna, Zmoudření Dona Quijota, Milá sedmi loupežníků. 
-- **Kontext literární a obecně kulturní:** Dyk patřil ke generaci buřičů podobně jako Petr Bezruč a Karel Toman. Mezi jeho současníky patří třeba František Xaver Šalda nebo Karel Čapek.
+- **Kontext autorovy tvorby:** Další Dykova díla: Básnická sbírka Devátá vlna, drama Zmoudření Dona Quijota, báseň Země mluví. 
+- **Kontext literární a obecně kulturní:** Dyk patřil ke generaci buřičů podobně jako František Gellner, Fráňa Šrámek a Karel Toman. Mezi jeho další současníky patřili František Xaver Šalda nebo Karel Čapek.

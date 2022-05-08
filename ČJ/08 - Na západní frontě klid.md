@@ -20,4 +20,4 @@
   - **Kantorek:** Učitel tělocviku, přiměje celou třídu, aby narukovala do armády
   - **Himmelstoss:** Krutý velitel během výcviku, v civilu pošťák, až přijde za ostatními na frontu, pomstí se mu
 - **Kontext autorovy tvorby:** Další Remarquova díla: Tři kamarádi, Cesta zpátky, Vítězný oblouk, Černý obelisk, Jiskra života
-- **Kontext literární a obecně kulturní:** Ztracená generace (další autoři: Romain Rolland, Ernest Hemmingway, Francis Scott Fitzgerald)
+- **Kontext literární a obecně kulturní:** Ztracená generace (další autoři: Romain Rolland, Ernest Hemmingway, Francis Scott Fitzgerald), díla s podobnou tematikou: Vojákův návrat.

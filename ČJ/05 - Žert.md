@@ -18,5 +18,5 @@
   - **Jaroslav:** Snílek zahleděný do minulosti, držící se starých zvyků a tradic a odmítající změny
 - **Jazykové prostředky (u maturity ve výňatku):** Dílo je napsáno ve spisovné češtině, ale jazyk díla je bohatý, využívá se i hovorová mluva a jsou obsaženy úryvky lidových písní. Vyprávění Heleny bylo charakteristické dlouhými souvětími, jež připomínala proud myšlenek.
 - **Figury a tropy (u maturity ve výňatku):** --
-- **Kontext autorovy tvorby:** Další Kunderova díla: Majitelé klíčů, Směšné lásky, Život je jinde, Kniha smíchu a zapomnění, Nesnesitelná lehkost bytí
-- **Kontext literární a obecně kulturní:** Kundera psal ve druhé polovině 20. století, je řazen k postmodernismu (další autoři: Umberto Eco, Gabriel Garcia Marquez)
+- **Kontext autorovy tvorby:** Další Kunderova díla: Drama Majitelé klíčů, soubor povídek Směšné lásky, romány Život je jinde, Kniha smíchu a zapomnění, Nesnesitelná lehkost bytí. Žert je jeho první román.
+- **Kontext literární a obecně kulturní:** Kundera psal ve druhé polovině 20. století, je řazen k postmodernismu (další autoři: Umberto Eco, Gabriel Garcia Marquez), patřil do exilového proudu (další autoři: Josef Škvorecký, Egon Hostovský, Arnošt Lustig).

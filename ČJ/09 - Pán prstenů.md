@@ -1,21 +1,21 @@
 # Pán prstenů - John Ronald Reuel Tolkien
 - **Literární druh:** Epika
 - **Literární žánr:** Román
-- **Téma:** Tématem díla je boj proti zlu a moci
+- **Téma:** Tématem díla je boj proti zlu a pokušení moci
 - **Motivy:** Prsten, pokušení, moc, láska, odvaha, magie, zmrtvýchvstání, pýcha, zaslepenost
 - **Časoprostor:** Středozemě na konci třetího věku (Kraj, Roklinka, Rohan, Gondor, Mordor)
 - **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Dělí se na tři knihy, ty se dělí na kapitoly, každá s nějakým názvem.
 - **Vypravěč:** Vševědoucí
 - **Vyprávěcí způsoby:** Er-forma
 - **Typy promluv:** Dialogy, popisy jednání postav a prostředí, někdy u hobitů monology a popisy myšlenek
-- **Veršová výstavba:** --
+- **Veršová výstavba:** Není, dílo je próza
 - **Postavy:**
   - **Frodo Pytlík:** Hlavní hrdina, mladý hobit, nese prsten
-  - **Olórin (Gandalf, Mithrandir):** Čaroděj, vymýšlí strategii na porážku Saurona a pomáhá s její realizací, putuje se Společenstvem, zemře v souboji s balrogem, ale znovu se objeví (motiv zmrtvýchvstání) jako Gandalf Bílý, potom pomůže porazit Sarumana a na konci pošle orly, aby zachránili Froda a Sama z Oroduiny
-  - **Sauron:** Temný pán, chce všemu vládnout, ale myslí si, že ostatní chtějí totéž, takže ho nenapadne, že budou chtít prsten zničit
-  - **Aragorn:** Isildurův dědic, právoplatný král Gondoru, chrání hobity po cestě, hledá unesené hobity, v Rohanu se do něj zamiluje Éowyn, ale on miluje Arwen z Roklinky, projde stezkami mrtvých a s pomocí duchů pomůže ukončit obléhaní Minas Tirith, na konec se stane králem
+  - **Gandalf:** Čaroděj, stratég sil dobra, putuje se Společenstvem, zemře v souboji s balrogem, ale znovu se objeví (motiv zmrtvýchvstání), potom pomůže porazit Sarumana a na konci pošle orly, aby zachránili Froda a Sama z Oroduiny
+  - **Sauron:** Temný pán, chce všemu vládnout, ale myslí si, že ostatní chtějí totéž, takže ho nenapadne, že se rozhodnou zničit prsten, čímž zahubí i Saurona
+  - **Aragorn:** Isildurův dědic, právoplatný král Gondoru, chrání hobity po cestě, unesené hobity hledá, v Rohanu se do něj zamiluje Éowyn, ale on miluje Arwen z Roklinky, projde stezkami mrtvých a s pomocí mrtvých pomůže ukončit obléhaní Minas Tirith, na konec se stane králem
   - **Samvěd Křepelka:** Hobit, Frodův sluha, věrný, putuje s Frodem celou cestu, jediný nositel prstenu, který se prstenu dobrovolně vzdal, když ho vrací Frodovi, miluje Růženu Chaloupkovou
   - **Peregrin Bral (Pipin) a Smělmír Brandorád (Smíšek):** Hobiti z Kraje, lehkovážní, putují s Frodem, ale jsou uneseni skřety, uniknou do Fangornu, kde řeknou Stromovousovi o Sarumanově zradě a přemluví enty k útoku na Železný pas, v boji u Minas Tirith bodne Smíšek mečem Pána nazgûlů, čímž umožní Éowyn, aby ho zabila
   - **Sméagol (Glum):** Hobit, který kdysi ukradl prsten svému bratrovi Déagolovi a zabil jej, používal prsten k tomu, aby se stával neviditelným, když mu ho Bilbo ukradl, vydal se do Mordoru říct to Sauronovi, po cestě zpět jej zajali elfové, ale s pomocí skřetů uprchl, sledoval Společenstvo, později se připojil k Samovi s Frodem a pomáhal jim hledat cestu, v Cirith Ungol je zradil a nechal napospas obřímu pavoukovi Odule, nakonec na vrcholu Oroduiny vzal Frodovi prsten a spadl s ním do jícnu sopky
-- **Kontext autorovy tvorby:** Další Tolkienova díla: Hobit, Silmarillion, Nedokončené příběhy, Příhody Toma Bombadila. Pán prstenů (1954) je z nich nejznámější dílo.
-- **Kontext literární a obecně kulturní:** Dílo spadá do žánru hrdinské fantasy
+- **Kontext autorovy tvorby:** Další Tolkienova díla: Hobit, Silmarillion, Nedokončené příběhy, Příhody Toma Bombadila. Pán prstenů (1954) je z nich nejznámější dílo. Tolkien byl katolík, takže dílo obsahuje křesťanské prvky (zmrtvýchvstání, pokušení).
+- **Kontext literární a obecně kulturní:** Dílo spadá do žánru hrdinské fantasy, další autoři: C. S. Lewis (Letopisy Narnie), Terry Pratchett (Zeměplocha).

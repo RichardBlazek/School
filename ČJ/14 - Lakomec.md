@@ -12,12 +12,12 @@
 - **Veršová výstavba:** --
 - **Postavy:**
   - **Harpagon** -- Bohatý lakomý šedesátiletý vdovec, zamilovaný do Mariany
-  - **Kleant** -- Harpagonův syn, milenec Mariany, marnotratný hédonik
+  - **Kleant** -- Harpagonův syn, milenec Mariany, trochu marnotratný
   - **Elisa** -- Harpagonova dcera, milenka Valera, který ji zachránil před utonutím
-  - **Mariana** -- Anselmova dcera, milenka Kleanta, hodná, poslušná
-  - **Valer** -- Anselmův syn, milenec Elisy, Harpagonův správce, mazaný, úlisný
+  - **Mariana** -- Anselmova dcera, milenka Kleanta, hodná, poslušná, chudá, žije se svou matkou
+  - **Valer** -- Anselmův syn, milenec Elisy, Harpagonův správce, mazaný, úlisný, podlézá Harpagonovi
   - **La Flèche** -- Kleantův sluha, Ukradl Harpagonovy peníze pro Kleanta
   - **Anselm** -- Dobromyslný bohatý šlechic, ve skutečnosti je don Thomas d'Alburci
   - **Frosina** -- Mazaná a všetečná rádkyně
 - **Kontext autorovy tvorby:** Další Molièrova díla: Zdravý nemocný, Tartuffe, Don Juan, Misantrop, Měšťák šlechticem, Pán z Prasečkova. Lakomec je jeho nejznámější komedie.
-- **Kontext literární a obecně kulturní:** Francouzský klasicismus, další autoři: Pierre Corneille, Jean Racine, Jean de la Fontaine; podobná díla: Komedie o hrnci
+- **Kontext literární a obecně kulturní:** Francouzský klasicismus (rozdělování forem na vysoké a nízké), další autoři: Pierre Corneille, Jean Racine, Jean de la Fontaine; podobná díla: Komedie o hrnci (Titus Maccius Plautus). Další klasicisté: Carlo Goldoni (Itálie).

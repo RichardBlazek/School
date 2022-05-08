@@ -1,7 +1,7 @@
 # Krysař - Viktor Dyk
 - **Literární druh:** Epika
 - **Literární žánr:** Novela
-- **Téma:** Tématem díla je pomsta krysaře, zklamaného chováním konšelů a neúspěchem v lásce
+- **Téma:** Tématem díla je pomsta krysaře, zklamaného neštěstím v lásce, za nečestné chování konšelů
 - **Motivy:** Krysy, píšťala, láska, porušení smlouvy, řeka, hospoda
 - **Časoprostor:** Německé město Hammeln ve středověku
 - **Kompoziční výstavba:** Kompozice je chronologická

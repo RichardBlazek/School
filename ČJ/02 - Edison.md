@@ -14,5 +14,5 @@
   - **Nezval:** Lyrický subjekt, přemýšlí o životě a usoudí, že smysl života je tvůrčí činnost, opěvuje Edisona
 - **Jazykové prostředky (u maturity ve výňatku):** Jazyk je spisovný, obsahuje názvy cizích míst a firem
 - **Figury a tropy (u maturity ve výňatku):** Anafora+enumerace (už, tisíc, stát se, piják, jako), přirovnání (jako rybář který vytáh plné sítě), kontrast (těžké/krásné, smutek stesk a úzkost / odvaha a radost)
-- **Kontext autorovy tvorby:** Další Nezvalova díla: Manon Lescaut, Absolutní hrobař, Sbohem a šáteček, Zpěv míru. Edison (1927) spadá do jeho poetistického období (později psal díla v duchu surrealismu a socialistického realismu).
+- **Kontext autorovy tvorby:** Další Nezvalova díla: Manon Lescaut, Podivuhodný kouzelník (poetismus), Absolutní hrobař (surrealismus), Zpěv míru. Edison (1927) spadá do jeho poetistického období (později psal díla v duchu surrealismu a socialistického realismu).
 - **Kontext literární a obecně kulturní:** První polovina 20. století, psal různá díla spadající do směrů poetismu (další básníci: Jaroslav Seifert, Karel Teige), surrealismu (Konstantin Biebl, Karel Teige) a socialistického realismu (Pavel Kohout, Marie Majerová).

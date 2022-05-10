@@ -6,8 +6,8 @@
 - **Časoprostor:** Německé město Hammeln ve středověku
 - **Kompoziční výstavba:** Kompozice je chronologická
 - **Vypravěč:** Vševědoucí vypravěč
-- **Vyprávěcí způsoby:** Er-forma, často jsou popisovány pocity postav
-- **Typy promluv:** Dialogy ukazují vztahy mezi jednotlivými postavami
+- **Vyprávěcí způsoby:** Er-forma
+- **Typy promluv:** Vyskytují se dialogy, ukazující vztahy mezi jednotlivými postavami, a popisy pocitů postav.
 - **Veršová výstavba:** Není, dílo je próza
 - **Postavy:**
   - **Krysař:** Zabíjí krysy, záhadný původ, zamiluje se do Agnes; když mu nejdřív konšelé nezaplatí a potom má Agnes dítě s Kristiánem a zabije se, rozhodne se odvést měšťany do propasti

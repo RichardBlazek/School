@@ -6,8 +6,8 @@
 - **Časoprostor:** První polovina 20. století, různě po světe (Praha, Amerika, ...)
 - **Kompoziční výstavba:** Dílo se člení na pět částí. První část vyjadřuje životní úzkost a pochyby o smyslu života. Ve druhé části autor srovnává svůj život s Edisonovým. Třetí část oslavuje práci vynálezce. Čtvrtá část ukazuje, že vynálezce ani po úspěchu nemá pokoj a pořád něco zkoumá, přitom úspěch závisí na odhodlání i na náhodě. V páté části se autor vrací domů, přičemž útěchu a smysl našel v tvůrčí práci.
 - **Lyrický subjekt:** Nezval sám
-- **Vyprávěcí způsoby:** Lyrický subjekt sděluje svoje pocity a myšlenky, svázané volnými asociacemi; vyskytuje se i přímá řeč, ale bez interpunkce.
-- **Typy promluv:** Vyskytují se téměř výhradně monology subjektu, výjimkou je dialog Nezvala a hazardního hráče
+- **Vyprávěcí způsoby:** Ich-forma
+- **Typy promluv:** Vyskytují se téměř výhradně monology, výjimkou je dialog Nezvala a hazardního hráče. V monolozích sděluje lyrický subjekt svoje pocity a myšlenky, svázané volnými asociacemi. Vyskytuje se i přímá řeč, ale bez interpunkce.
 - **Veršová výstavba:** Verše používají sdružený rým a trochejské metrum.
 - **Postavy:**
   - **Edison:** Reprezentuje vynálezce, člověka zabraného do tvůrčí činnosti

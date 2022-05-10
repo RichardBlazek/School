@@ -6,8 +6,8 @@
 - **Časoprostor:** Nádraží v Čechách na konci druhé světové války
 - **Kompoziční výstavba:** Kompozice je in medias res. Člení se na kapitoly, které jsou odděleny jen větší mezerou mezi odstavci.
 - **Vypravěč:** Vypravěčem je hlavní postava, Miloš Hrma
-- **Vyprávěcí způsoby:** Děj vypráví v ich-formě
-- **Typy promluv:** Dialogy a popisy myšlenek, pocitů a vzpomínek vypravěče
+- **Vyprávěcí způsoby:** Ich-forma
+- **Typy promluv:** Vyskytují se dialogy a popisy myšlenek, pocitů a vzpomínek vypravěče
 - **Veršová výstavba:** Není, dílo je próza
 - **Postavy:**
   - **Miloš Hrma:** Mladý výpravčí, trpící ejaculatio praecox, pokusí se kvůli tomu o sebevraždu, ale soulož s Viktorií mu nakonec dodá odvahu, provede úspěšnou sabotáž, ale umírá zastřelený německým vojákem

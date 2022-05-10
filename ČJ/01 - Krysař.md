@@ -2,7 +2,7 @@
 - **Literární druh:** Epika
 - **Literární žánr:** Novela
 - **Téma:** Tématem díla je pomsta krysaře, zklamaného neštěstím v lásce, za nečestné chování konšelů
-- **Motivy:** Krysy, píšťala, láska, porušení smlouvy, řeka, hospoda
+- **Motivy:** Krysy, píšťala, láska, porušení smlouvy, dítě, nevinnost, hospoda
 - **Časoprostor:** Německé město Hammeln ve středověku
 - **Kompoziční výstavba:** Kompozice je chronologická
 - **Vypravěč:** Vševědoucí vypravěč
@@ -17,5 +17,5 @@
   - **Frosch a Strumm:** Konšelé a řemeslníci, najmou krysaře na deratizaci, ale odmítnou mu zaplatit
 - **Jazykové prostředky (u maturity ve výňatku):** Jazyk je spisovný, obsahuje knižní slova (chmurně), archaismy (zahubiti)
 - **Figury a tropy (u maturity ve výňatku):** Inverze (S rozšířenými zornicemi hleděla na něho Agnes), metafora (kojil se nadějí), řečnická otázka (což já vím?)
-- **Kontext autorovy tvorby:** Další Dykova díla: Básnická sbírka Devátá vlna, drama Zmoudření Dona Quijota, báseň Země mluví. 
+- **Kontext autorovy tvorby:** Další Dykova díla: Básnická sbírka Devátá vlna, drama Zmoudření Dona Quijota, báseň Země mluví.
 - **Kontext literární a obecně kulturní:** Dyk patřil ke generaci buřičů podobně jako František Gellner, Fráňa Šrámek a Karel Toman. Mezi jeho další současníky patřili František Xaver Šalda nebo Karel Čapek.

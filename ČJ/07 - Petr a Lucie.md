@@ -17,4 +17,4 @@
   - **Petrovi kamarádi:** Taky z buržoazních rodin, zastávali různé postoje k válce a diskutovali o nich
   - **Luciina matka:** Žena z bohaté rodiny, která si vzala chudého manžela, takže se jí rodina zřekla, pracuje v továrně na munici, měla dítě s milencem
 - **Kontext autorovy tvorby:** Další Rollandova díla: Jan Kryštof, Dobrý člověk ještě žije
-- **Kontext literární a obecně kulturní:** Ztracená generace (další autoři: Erich Maria Remarque, Ernest Hemmingway, Francis Scott Fitzgerald), díla s podobnou tematikou: Na západní frontě klid (trochu, je tam válka, ale ne láska)
+- **Kontext literární a obecně kulturní:** Ztracená generace (další autoři: Erich Maria Remarque, Ernest Hemmingway, Francis Scott Fitzgerald), díla s podobnou tematikou: Ostře sledované vlaky (ale je tam sexualita, ne láska), Velice krátká povídka (tam je láska vzniklá díky válce, ne navzdory ní).

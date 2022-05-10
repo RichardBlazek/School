@@ -13,7 +13,7 @@
   - **Ludvík Jahn:** Původně oddaný komunista, kvůli žertu vyloučený ze strany, pohrdá ženami a manipuluje (nejen) jimi
   - **Pavel Zemánek:** Bezpáteřní tvor, zapálený komunista v 50. letech, reformátor v 60. letech, je pro něj důležité být populární, hodlá opustit manželku kvůli mladé milence
   - **Helena Zemánková:** Pavlova žena, oddaná komunistka, odmítá si přiznat skutečnost a ráda věří příjemným lžím, když ji manžel chce opustit, je ochotná věřit, že ji Ludvík miluje
-  - **Lucie Komárková:** Plachá dívka s traumaty z minulosti, působí záhadně, než ji Kostka vyzpovídá
+  - **Lucie Šebetková:** Plachá dívka s traumaty z minulosti, působí záhadně, než ji Kostka vyzpovídá
   - **Kostka:** Křesťan a zároveň komunista, neustále pochybující o svých rozhodnutích
   - **Jaroslav:** Snílek zahleděný do minulosti, držící se starých zvyků a tradic a odmítající změny
 - **Jazykové prostředky (u maturity ve výňatku):** Dílo je napsáno ve spisovné češtině, ale jazyk díla je bohatý, využívá se i hovorová mluva a jsou obsaženy úryvky lidových písní. Vyprávění Heleny bylo charakteristické dlouhými souvětími, jež připomínala proud myšlenek.

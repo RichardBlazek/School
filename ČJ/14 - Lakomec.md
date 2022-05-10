@@ -1,5 +1,4 @@
 # Lakomec - Molière (Jean-Baptiste Poquelin)
-# Médeia - Euripidés
 - **Literární druh:** Drama
 - **Literární žánr:** Komedie
 - **Téma:** Tématem díla je deformace vztahů kvůli lakotě a penězům

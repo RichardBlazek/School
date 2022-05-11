@@ -1,0 +1,91 @@
+# Figury
+Jazykové prostředky založené na opakování, hromadění nebo zvláštním pořádku slov
+- **Aliterace:** Několik slov začínajících na stejné písmeno po sobě
+  ```
+  Pulkrábek: "Když jsem byl na střední, vymyslel jsem větu, ve které všechna slova začínala na p:
+  Perverzní prvák Petr prcal prvačku Pavlínu přes pět prezervativů."
+  ```
+- **Anafora:** Opakování slov na začátku verše
+  ```
+  Manon je všecko, co nikdy neztratí svůj pel.
+  Manon je rozum, který mi odletěl!
+  ```
+- **Antiteze:** Tvrzení (teze) a jeho popření
+  ```
+  Co se to bělá z lesa zeleného?
+  Je to sníh či labutí hejno?
+  Kdyby sníh byl, dávno by již roztál,
+  labuti by také odletěly,
+  není to sníh, labuti to nejsou,
+  ale stan agy Hasanagy.
+  ```
+- **Aposiopese:** Nedokončená výpověď, značená třemi tečkami
+  ```
+  Ráda bych se sester, ráda bych se ptala,
+  proč jsem jako louka rozkvítala,
+  proč a proč jsem... a jak to jen říci...
+  jsou snad muži loupežníci?
+  ```
+- **Apostrofa:** Oslovení věci či neexistující osoby
+  ```
+  Milenčin dopise, lampo, kniho kamarádova,
+  věci zrozené z lásky, světla a víry,
+  dnes při mně stůjte a třikrát mi věrnější buďte
+  ```
+- **Asyndeton:** Vynechání spojek
+- **Elipsa:** Vynechání slova
+- **Epanastrofa:** Opakování slov na konci jednoho a začátku druhého verše
+  ```
+  byl obraz boží rodičky,
+  rodičky boží s děťátkem
+  ```
+- **Epifora:** Opakování slov na konci verše
+  ```
+  Co to máš na té tkaničce?
+  Na krku na té tkaničce!
+  ```
+- **Epizeuxis:** Opakování slova ve verši
+  ```
+  Manon, ach Manon, Manon z Arrasu!
+  ```
+- **Gradace:** Stupňování
+  ```
+  Jeden den dítě stonalo,
+  druhý den dítě skonalo,
+  třetí pohřeb mělo.
+  ```
+- **Inverze:** Narušení obvyklého slovosledu
+  ```
+  Já u pramene jsem a žízní hynu
+  ```
+- **Paralelismus:** Tatáž skutečnost řečena více způsoby
+  ```
+  Nebe je perspektivou zúžené na jednu vyhaslou hvězdu.
+  Moře je perspektivou zúžené na jednu neslanou kapku.
+  Poušť je perspektivou zúžená na jedno vychladlé zrnko písku.
+  Léta jsou perspektivou zúžená na jeden okamžik smrti.
+  ```
+- **Paranomázie:** Několik podobně znějících slov po sobě
+  ```
+  Slavme slavně slávu Slávů slavných
+  ```
+- **Polysyndeton:** Přidání spojek navíc
+- **Řečnická otázka:** Otázka, která vyjadřuje nejistotu, není očekávána odpověď
+  ```
+  Jsem v jámě, sám, ne v louce sedmikrás,
+  (...) necháte tu chudáka Villona?
+  ```
+- **Zvukomalba (onopatopoia):** Seskupení hlásek vyvolávající dojem či napodobující zvuk
+  ```
+  Ach, zemi krásnou, zemi milovanou,
+  kolébku mou i hrob můj, matku mou,
+  vlast jedinou i v dědictví mi danou,
+  širou tu zemi, zemi jedinou!
+  ```
+- **Zvukosled:** Opakování stejných hlásek ve verši
+  ```
+  Tyčinky v tichých i bílých liliích
+  ve světle zeleném světle zeleně 
+  ```
+
+# Tropy

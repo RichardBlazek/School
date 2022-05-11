@@ -91,10 +91,11 @@ Jazykové prostředky založené na opakování, hromadění nebo zvláštním p
 # Tropy
 Jazykové prostředky založené na přenášení významu:
 - **Metafora:** Obrazné pojmenování na základě podobnosti (*Den její neměl vůně, barev, květů, jasu...* = byl smutný a nezábavný)
-- **Metonymie:** Přenesené pojmenování na základě souvislosti, není tam vnější podobnost (*Táboru se klonil věčný Řím* = papež měl obavy z husitů)
+- **Metonymie:** Přenesené pojmenování na základě souvislosti jiné než vnější podobnost (*Jdu si do knihovny půjčit Čapka* = jdu pro Čapkovu knihu)
 - **Synekdocha:** Záměna celku za část nebo části za celek (*Neměl střechu nad hlavou* = neměl kde bydlet)
+- **Symbol:** Druh metonymie, souvislost na základě nějaké symboliky (*S tebou je kříž* = s tebou je trápení)
 - **Přirovnání:** Obvykle se slovem "jako" (*Krásná jako kvítka na modranském džbánku*), ale s i jinými slovy, například "než" (*Žil si hůře než pes*)
-- **Synestezie:** Záměna počitků z různých vjemů, například čich/chuť (*přesladká vůně*) nebo sluch/hmat (*ostrý tón*) 
+- **Synestezie:** Záměna počitků z různých vjemů, například čich/chuť (*přesladká vůně*), barva/zvuk (*A čerň, E běl, I nach, O modř, U zeleň hlásek*)
 - **Eufemismus:** Zjemnění, zmírnění (*Již na něm roste trávníček* = zemřel)
 - **Dysfemismus:** Zhrubnutí, opak eufemismu (*Zaklepal bačkorami* = zemřel)
 - **Oxymóron:** Protiřečící si slova (*Haploidní zygota* - zygota je diploidní)

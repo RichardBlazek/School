@@ -1,7 +1,7 @@
 # Romeo a Julie - William Shakespeare
 - **Literární druh:** Drama
 - **Literární žánr:** Tragédie
-- **Téma:** Tématem díla je nešťastně končící boj mladých milenců o určení vlastního osudu
+- **Téma:** Tématem díla je nešťastně končící boj mladých milenců za určení vlastního osudu
 - **Motivy:** Láska, nenávist, zákon, souboj, jed, nůž, hrob, sebevražda
 - **Časoprostor:** Veroně a Mantova, 16. století
 - **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Za expozici bych označil popis nenávisti Monteků a Capuletů. Kolize začíná, když se do sebe Romeo a Julie zamilují a vezmou se. Krizí bych nazval část, kdy je Romeo vyhnán a Julii si má vzít Paris. Jako o peripetii lze mluvit o části, kdy Julie předstírá smrt a zdá se, že bude možné, aby spolu utekli. Když je však Romeo zdrcen domnělou Juliinou smrtí a koupí si jed, vše spěje k tragickému konci -- katastrofě.

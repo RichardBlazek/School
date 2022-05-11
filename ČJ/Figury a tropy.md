@@ -1,5 +1,5 @@
 # Figury
-Jazykové prostředky založené na opakování, hromadění nebo zvláštním pořádku slov
+Jazykové prostředky založené na opakování, hromadění nebo zvláštním pořádku slov:
 - **Aliterace:** Několik slov začínajících na stejné písmeno po sobě
   ```
   Pulkrábek: "Když jsem byl na střední, vymyslel jsem větu, ve které všechna slova začínala na p:
@@ -89,3 +89,16 @@ Jazykové prostředky založené na opakování, hromadění nebo zvláštním p
   ```
 
 # Tropy
+Jazykové prostředky založené na přenášení významu:
+- **Metafora:** Obrazné pojmenování na základě podobnosti (*Den její neměl vůně, barev, květů, jasu...* = byl smutný a nezábavný)
+- **Metonymie:** Přenesené pojmenování na základě souvislosti, není tam vnější podobnost (*Táboru se klonil věčný Řím* = papež měl obavy z husitů)
+- **Synekdocha:** Záměna celku za část nebo části za celek (*Neměl střechu nad hlavou* = neměl kde bydlet)
+- **Přirovnání:** Obvykle se slovem "jako" (*Krásná jako kvítka na modranském džbánku*), ale s i jinými slovy, například "než" (*Žil si hůře než pes*)
+- **Synestezie:** Záměna počitků z různých vjemů, například čich/chuť (*přesladká vůně*) nebo sluch/hmat (*ostrý tón*) 
+- **Eufemismus:** Zjemnění, zmírnění (*Již na něm roste trávníček* = zemřel)
+- **Dysfemismus:** Zhrubnutí, opak eufemismu (*Zaklepal bačkorami* = zemřel)
+- **Oxymóron:** Protiřečící si slova (*Haploidní zygota* - zygota je diploidní)
+- **Pleonasmus:** Redundantní informace (*Hospitalizován v nemocnici* - hospitalizovat znamená být dopraven do nemocnice, takže "v nemocnici" je zde zbytečné)
+- **Hyperbola:** Nadsázka (*Sto roků v šachtě žil, mlčel jsem* = pracoval v šachtě dlouho)
+- **Litotes:** Zmírnění výrazu, často pomocí negace (*Kluk není hloupej* = je docela chytrý)
+- **Personifikace:** Zosobnění něčeho neživého (*Krok za krokem vcházela noc* = postupně se stmívalo)

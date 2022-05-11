@@ -1,7 +1,7 @@
 # Hamlet - William Shakespeare
 - **Literární druh:** Drama
 - **Literární žánr:** Tragédie
-- **Téma:** Tématem díla je snaha pomstít vraždu svého otce
+- **Téma:** Tématem díla je pomsta za vraždu svého otce, vedoucí k mnoha dalším vraždám.
 - **Motivy:** Vražda, láska, odplata, šílenství, divadlo, přetvářka, lest
 - **Časoprostor:** Hrad Elsinor v Dánsku, přibližně na počátku 17. století
 - **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Za expozici bych označil první jednání, v němž se zjevuje duch a Hamlet zjistí, že Claudius zabil krále. Kolize začíná s druhým jednáním, když se Hamlet rozhodne otce pomstít. Krizí bych nazval část od třetího jednání, zahrnující monolog *Být či nebýt* a divadelní představení. Jako o peripetii by se dalo mluvit o části, kdy je Hamlet poslán do Anglie, neboť se může zdát, že tím je odstraněn. Když je Hamet vyzván na souboj, vše spěje k tragickému konci -- katastrofě.

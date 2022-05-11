@@ -18,4 +18,4 @@
   - **Rosenkrantz a Guildenstern:** Hamletovi bývalí spolužáci, Claudius s nimi pošle Hamleta do Anglie, aby tam byl sťat dle rozkazu v dopise, ale Hamlet vyměnil papír v obálce a napsal, ať jsou popraveni Rosenkrantz s Guildensternem
   - **Laertes:** Poloniův syn, chce otce pomstít, jde na souboj s Hamletem, ale po domluvě s Claudiem si vezme otrávený meč, tím Hamleta zasáhne, ale v průběhu zápasu si meče vymění, takže je pak taky zraněn otráveným mečem a zemřou oba
 - **Kontext autorovy tvorby:** Další Shakespearova díla: Romeo a Julie, Othello, Král Lear, Macbeth, Kupec benátský.
-- **Kontext literární a obecně kulturní:** Renesance (v Anglii v 16. až 17. století), další autoři: Christopher Marlowe, Michel de Montaigne, Miguel de Cervantes y Saavedra. Díla s podobným námětem: Soudné sestry (Zeměplocha).
+- **Kontext literární a obecně kulturní:** Renesance (v Anglii v 16. až 17. století), další autoři: Christopher Marlowe, Michel de Montaigne, Miguel de Cervantes y Saavedra. Díla s podobným námětem: Oresteia (Aischylos).

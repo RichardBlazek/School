@@ -1,5 +1,5 @@
 # 451 stupňů Fahrenheita - Ray Bradbury
-- **Literární druh:** Epika
+- **Literární druh:** Epika (velká)
 - **Literární žánr:** Román
 - **Téma:** Tématem díla je technicky vyspělá, ale degenerovaná společnost oddaná hédonismu a opovrhující vzděláním
 - **Motivy:** Knihy, oheň, pálení knih, vzdělání, přemýšlení, sebevražda, eskapismus, hédonismus, technika, televize, rychlost, válka

@@ -17,4 +17,4 @@
   - **Faber:** Bývalý profesor angličtiny, Montag jej s kontaktuje a přesvědčí jej ke spolupráci, Faber mu dá komunikační zařízení do ucha, aby se mohli na dálku dorozumívat
   - **Granger:** Vůdce skupiny intelektuálů, kteří žijí v exilu a pamatují si knihy
 - **Kontext autorovy tvorby:** Ray Bradbury psal literaturu science-fiction (např. Marťanská kronika, Ilustrovaný muž), ale často v ní líčí techniku v nepříznivém světle (Ilustrovaný muž nebo právě 451 stupňů Fahrenheita), dále napsal povídkovou sbírku Říjnová země či autobiografický román Pampeliškové víno
-- **Kontext literární a obecně kulturní:** Dystopická literatura, díla s podobnou tematikou: Konec civilizace (Aldous Huxley, taky technicky vyspělá dystopická společnost), My (Jevgenij Zamjatin)
+- **Kontext literární a obecně kulturní:** Dystopická literatura, díla s podobnou tematikou (technicky vyspělá dystopická společnost): Konec civilizace (Aldous Huxley), My (Jevgenij Zamjatin). Další autoři sociální science-fiction (sci-fi zaměřené na popis fungování budoucí společnosti): H. G. Wells (Stroj času), Frank Herbert (Duna).

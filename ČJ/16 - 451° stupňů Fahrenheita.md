@@ -16,5 +16,5 @@
   - **Clarisse McClellanová:** Skoro sedmnáctiletá dívka, kterou Montag potká a která zpochybní jeho dosavadní život, když mu klade nepříjemné otázky, je radostná a nezávisle přemýšlející, ona i její rodina jsou považováni za podivíny
   - **Faber:** Bývalý profesor angličtiny, Montag jej s kontaktuje a přesvědčí jej ke spolupráci, Faber mu dá komunikační zařízení do ucha, aby se mohli na dálku dorozumívat
   - **Granger:** Vůdce skupiny intelektuálů, kteří žijí v exilu a pamatují si knihy
-- **Kontext autorovy tvorby:** Ray Bradbury psal literaturu science-fiction (např. Marťanská kronika, Ilustrovaný muž), ale často líčí techniku i v nepříznivém světle (Ilustrovaný muž nebo právě 451 stupňů Fahrenheita), dále napsal povídkovou sbírku Říjnová země či autobiografický román Pampeliškové víno
+- **Kontext autorovy tvorby:** Ray Bradbury psal literaturu science-fiction (např. Marťanská kronika, Ilustrovaný muž), ale často v ní líčí techniku v nepříznivém světle (Ilustrovaný muž nebo právě 451 stupňů Fahrenheita), dále napsal povídkovou sbírku Říjnová země či autobiografický román Pampeliškové víno
 - **Kontext literární a obecně kulturní:** Dystopická literatura, díla s podobnou tematikou: Konec civilizace (Aldous Huxley, taky technicky vyspělá dystopická společnost), My (Jevgenij Zamjatin)

@@ -2,7 +2,7 @@
 - **Literární druh:** Epika
 - **Literární žánr:** Román
 - **Téma:** Tématem díla je degenerovaná kultura oddaná hédonismu a opovrhující vzděláním
-- **Motivy:** Knihy, oheň, pálení knih, sebevražda, eskapismus, hédonismus, technika, zbraně
+- **Motivy:** Knihy, oheň, pálení knih, sebevražda, eskapismus, hédonismus, technika, válka, klid, přemýšlení
 - **Časoprostor:** Dystopická budoucnost, nespecifikované místo
 - **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Dělí se na tři části, v první části začně palič knih Montag pochybovat o správnosti svého počínání a zachrání první knihu, ve druhé části zachraňuje další knihy, je podezříván kapitánem Beattym a čte knihu své manželce a jejím kamarádkám, ve třetí části je kapitánem přinucen spálit svůj dům a knihy v něm, ale potom se vzbouří, upálí Beattyho, uteče, dostane se ke skupině putujících vzdělanců, kteří si pamatují knihy, a mezitím je město zničeno ve válce.
 - **Vypravěč:** Vševědoucí

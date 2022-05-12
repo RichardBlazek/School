@@ -6,8 +6,8 @@
 - **Časoprostor:** Dystopická budoucnost, nespecifikované místo
 - **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Dělí se na tři části, v první části začně palič knih Montag pochybovat o správnosti svého počínání a zachrání první knihu, ve druhé části zachraňuje další knihy, je podezříván kapitánem Beattym a čte knihu své manželce a jejím kamarádkám, ve třetí části je kapitánem přinucen spálit svůj dům a knihy v něm, ale potom se vzbouří, upálí Beattyho, uteče, dostane se ke skupině putujících vzdělanců, kteří si pamatují knihy, a město je mezitím zničeno ve válce.
 - **Vypravěč:** Vševědoucí
-- **Vyprávěcí způsoby:** Děj se vypráví v er-formě, věci jsou však popisovány z pohledu Montaga
-- **Typy promluv:** Vyskytují se dialogy v přímé řeči; Beatty má párkrát monolog, když Montaga poučuje; dále jsou tam Montagovy myšlenky a popisy prostředí a jednání postav
+- **Vyprávěcí způsoby:** Er-forma
+- **Typy promluv:** Vyskytují se dialogy v přímé řeči; Beatty má párkrát monolog, když Montaga poučuje; dále jsou v knize Montagovy myšlenky a popisy prostředí a jednání postav
 - **Veršová výstavba:** Není, dílo je próza
 - **Postavy:**
   - **Guy Montag:** Požárník (palič knih), který se rozhodne, že začne knihy zachraňovat, je nakonec odhalen a je přinucen spálit vlastní dům i s knihami, nakonec ale uteče a dostane se ke skupině vzdělanců, kteří si pamatují knihy

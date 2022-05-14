@@ -34,6 +34,17 @@ Jazykové prostředky založené na opakování, hromadění nebo zvláštním p
   ```
 - **Asyndeton:** Vynechání spojek
 - **Elipsa:** Vynechání slova
+- **Enumerace:** Výčet
+  ```
+  piják nezachytitelných odstínů
+  piják světel potopených do stínů
+  piják žen jichž poslouchají sny a hadi
+  piják žen jež pochovávají své mládí
+  piják krutých hazardních a krásných žen
+  piják rozkoše a zkrvavělých pěn
+  piják všeho krutého co štve a drtí
+  piják hrůz a smutku z života i smrti
+  ```
 - **Epanastrofa:** Opakování slov na konci jednoho a začátku druhého verše
   ```
   byl obraz boží rodičky,

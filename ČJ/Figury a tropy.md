@@ -34,7 +34,7 @@ Jazykové prostředky založené na opakování, hromadění nebo zvláštním p
   ```
 - **Asyndeton:** Vynechání spojek
 - **Elipsa:** Vynechání slova
-- **Enumerace:** Výčet
+- **Enumerace:** Výčet (tento příklad je zrovna i anafora, ale tady jej uvádím jako ilustraci výčtu, v němž autor vypisuje, čeho všeho je piják)
   ```
   piják nezachytitelných odstínů
   piják světel potopených do stínů

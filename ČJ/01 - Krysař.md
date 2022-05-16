@@ -18,4 +18,4 @@
 - **Jazykové prostředky (u maturity ve výňatku):** Jazyk je spisovný, obsahuje knižní slova (chmurně), archaismy (zahubiti)
 - **Figury a tropy (u maturity ve výňatku):** Inverze (S rozšířenými zornicemi hleděla na něho Agnes), metafora (kojil se nadějí), řečnická otázka (což já vím?)
 - **Kontext autorovy tvorby:** Další Dykova díla: Básnická sbírka Devátá vlna, drama Zmoudření Dona Quijota, báseň Země mluví.
-- **Kontext literární a obecně kulturní:** Dyk patřil ke generaci buřičů podobně jako František Gellner, Fráňa Šrámek a Karel Toman. Mezi jeho další současníky patřili František Xaver Šalda nebo Karel Čapek.
+- **Kontext literární a obecně kulturní:** Dyk v mládí patřil ke generaci buřičů podobně jako František Gellner, Fráňa Šrámek a Karel Toman. Později byl orientován nacionalisticky. Mezi jeho další současníky patřili František Xaver Šalda nebo Karel Čapek.

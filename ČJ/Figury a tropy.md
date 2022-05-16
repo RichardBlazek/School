@@ -114,3 +114,4 @@ Jazykové prostředky založené na přenášení významu:
 - **Hyperbola:** Nadsázka (*Sto roků v šachtě žil, mlčel jsem* = pracoval v šachtě dlouho)
 - **Litotes:** Zmírnění výrazu, často pomocí negace (*Kluk není hloupej* = je docela chytrý)
 - **Personifikace:** Zosobnění něčeho neživého (*Krok za krokem vcházela noc* = postupně se stmívalo)
+- **Kontrast:** Využití protikladných dojmů (*Já u pramene jsem a žízní hynu*)

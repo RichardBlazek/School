@@ -4,7 +4,7 @@
 - **Téma:** Tématem díla je pomsta krysaře, zklamaného neštěstím v lásce, za nečestné chování konšelů
 - **Motivy:** Krysy, píšťala, láska, porušení smlouvy, dítě, nevinnost, hospoda
 - **Časoprostor:** Německé město Hammeln ve středověku
-- **Kompoziční výstavba:** Kompozice je chronologická
+- **Kompoziční výstavba:** Kompozice je chronologická, dílo se člení na kapitoly
 - **Vypravěč:** Vševědoucí vypravěč
 - **Vyprávěcí způsoby:** Er-forma
 - **Typy promluv:** Vyskytují se dialogy, ukazující vztahy mezi jednotlivými postavami, a popisy pocitů postav.

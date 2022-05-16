@@ -17,5 +17,5 @@
   - **Avdotja Romanovna Raskolnikova (Duňa):** Raskolnikovova sestra, chce si vzít Lužina, aby pomohla rodině z chudoby, ale odmítne, když zjistí, co je Lužin zač, a dostane peníze od Svidrigajlova
   - **Sofja Sejmonovna Marmeladova (Soňa):** Prostitutka, která musí živit celou Marmeladovic rodinu, obětuje jim vše, chce Raskolnikovovi pomoci na správnou cestu
   - **Porfirij Petrovič:** Policejní vyšetřovatel, důvtipný, zkoumá mysl pachatelů, prohlédne Raskolnikova
-- **Kontext autorovy tvorby:** Další Dostojevského díla: Zápisky z podzemí, Idiot, Bratři Karamazovi, Běsi
+- **Kontext autorovy tvorby:** Další Dostojevského díla: Zápisky z podzemí, Zápisky z mrtvého domu, Idiot, Bratři Karamazovi, Běsi
 - **Kontext literární a obecně kulturní:** Dostojevskij je předchůdcem psychologické prózy (další autoři: Jarmila Glazarová, Jaroslav Havlíček) a představitelem realismu (další autoři: Honoré de Balzac, Nikolaj Vaslijevič Gogol, Karel Václav Rais)

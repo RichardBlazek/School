@@ -16,4 +16,4 @@
   - **Lízalovi:** Rodiče Maryši, již jsou ochotni provdat bez ohledu na její přání
   - **Strouhalka:** Přemlouvá Maryšu ke sňatku pomocí zastrašování, argumentů ad hominem a dalších sofismat
 - **Kontext autorovy tvorby:** Další díla od Mrštíků: Rok na vsi, Bavlnkova žena; od Viléma: Santa Lucia, Pohádka Máje; od Aloise: Dobré duše
-- **Kontext literární a obecně kulturní:** Realismus (další autoři: Lev Nikolajevič Tolstoj, Jan Neruda, Honoré de Balzac, Gabriela Preissová), venkovská próza (Božena Němcová, Karolína Světlá, Antal Stašek), díla s podobnou tematikou: Krysař, Romeo a Julie
+- **Kontext literární a obecně kulturní:** Realismus (další autoři: Lev Nikolajevič Tolstoj, Jan Neruda, Honoré de Balzac), venkovská próza (Božena Němcová, Karolína Světlá, Gabriela Preissová, Antal Stašek), díla s podobnou tematikou: Krysař, Romeo a Julie

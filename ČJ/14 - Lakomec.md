@@ -4,7 +4,7 @@
 - **Téma:** Tématem díla je deformace vztahů kvůli lakotě a penězům
 - **Motivy:** Peníze, lakota, láska, krádež, úvěr, svatba
 - **Časoprostor:** Paříž v 17. století
-- **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Za expozici bych označil vyznání lásky a Harpagonovu lakotu. Kolize začíná, když Harpagon oznámí dětem svoje plány ohledně ženitby. Krizí bych nazval část, kdy Harpagon zjistí, že mu byly zcizeny peníze. O peripetii lze mluvit v části, kdy Kleant vydírá svého otce skrz ukradené peníze. Když se Anselm vzdá Elisy a ukáže se, že je otcem Mariany a Valera, děj spěje ke šťastnému konci.
+- **Kompoziční výstavba:** Dílo užívá chronologickou kompozici. Za expozici bych označil vyznání lásky a Harpagonovu lakotu. Kolize začíná, když Harpagon oznámí dětem svoje plány ohledně ženitby. Krizí bych nazval část, kdy Harpagon zjistí, že mu byly zcizeny peníze. O peripetii lze mluvit v části, kdy Harpagon vyslýchá Valera pro podezření z krádeže. Když se Anselm vzdá Elisy a ukáže se, že je otcem Mariany a Valera, děj spěje ke šťastnému konci.
 - **Vypravěč:** Není, je to divadelní hra.
 - **Vyprávěcí způsoby:** Děj vypráví postavy dramatu prostřednictvím svých promluv
 - **Typy promluv:** Děj je vyprávěn téměř výhradně pomocí dialogů, jediný významný monolog vede Harpagon poté, co jsou mu ukradeny peníze.

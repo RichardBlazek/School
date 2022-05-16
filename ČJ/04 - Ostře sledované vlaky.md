@@ -18,4 +18,4 @@
   - **Zdenička Svatá, kolaborant Zednicek, paní přednostová**
 - **Jazykové prostředky (u maturity ve výňatku):** Dílo je napsáno ve spisovné češtině, ale využívá i nespisovných slov (fofrovat).
 - **Kontext autorovy tvorby:** Další Hrabalova díla: Postřižiny, Obsluhoval jsem anglického krále, Příliš hlučná samota, Pábitelé. Ostře sledované vlaky jsou jedním z mála Hrabalových děl, která mají děj.
-- **Kontext literární a obecně kulturní:** Česká literatura druhé poloviny 20. století, patřil do oficiálního proudu (další autoři: Ota Pavel, Arnošt Lustig, Vladimír Páral)
+- **Kontext literární a obecně kulturní:** Česká literatura druhé poloviny 20. století, patřil do oficiálního proudu (další autoři: Ota Pavel, Arnošt Lustig, Vladimír Páral, Bohumil Hrabal)
